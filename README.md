@@ -31,7 +31,7 @@
 
 
 # <a name="ARTIFACT"></a> 1. ARTIFACT
-![Image of the NVV clock](https://
+![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/tree/master/IMAGES/artifact_clock.jpeg)
 
 
 
