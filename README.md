@@ -40,7 +40,7 @@
 *subject:*| object
 *location of origin:*| the Netherlands
 
-
+<p>&nbsp;</p>
 
 **Additional ARCHIVE RESOURCES:**
 
