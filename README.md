@@ -68,7 +68,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 <p>&nbsp;</p>
 
-**Questions about time** 
+**Questions about time:** 
 
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
@@ -91,6 +91,12 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 *What is time when you’re deaf?*
 
 - Hand signs for time
+
+
+*What is the concept of time?*
+
+Reference: Lucy
+[![LUCY reference]()](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 <p>&nbsp;</p>
