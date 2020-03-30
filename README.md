@@ -66,6 +66,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 ## What is time?
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
+![Definition of time]()
 <p>&nbsp;</p>
 
 **Questions about time:** 
@@ -94,7 +95,6 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 
 *What is the concept of time?*
-
 Reference: Lucy
 [![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
