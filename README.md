@@ -18,7 +18,7 @@
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
    * Ideas/Concepts
    * Experiments
-1. [SOURCES](#SOURCES)
+1. [ADDITIONAL SOURCES](#ADDITIONAL-SOURCES)
    * definitions
    * articles/readings/books
    * visual 
@@ -112,7 +112,9 @@ https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
 
 **What is a vakvereniging/vakbond?**
+
 *what was it then?*
+
 Een vakbond, vakvereniging, werknemersvereniging, vakorganisatie of syndicaat is een organisatie die de individuele en collectieve belangen van aangesloten werknemers behartigt.
 
 
@@ -121,7 +123,9 @@ De eerste vakverenigingen in Nederland waren vooral verenigingen voor onderlinge
 In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aangesloten bij een vakbond ("georganiseerd"). De syndicalisatiegraad in België bedraagt 54% (in de leeftijd 15-64 jaar), wat een van de hoogste percentages ter wereld is. Alleen Scandinavische landen scoren systematisch hoger. In maart 2013 waren in Nederland bijna 1,8 miljoen mensen lid van een vakbond.
 
 
+
 *what is it now?*
+
 Vakbonden in Nederland
 - AC - Ambtenarencentrum overkoepelend orgaan van aantal Rijksbonden
 - ANPV - Vakbond voor politiepersoneel
@@ -202,13 +206,41 @@ Vakbonden in Nederland
 - W.I.M. - Werknemersvereniging IKEA Medewerkers
 
 
+SOURCES:
+https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
+
+
+<p>&nbsp;</p>
 
 ## Vakverenigingen and the distribution of the work week
+https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
+- 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
+- the weekend
+- 9 to 5
+- lunch hour
+etc.
+
+SOURCES:
+https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
+https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
+
+
+<p>&nbsp;</p>
+
 ## visualizations of time
+
+https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
+
+
+[![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
+https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
+
+<p>&nbsp;</p>
+
 # <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
 ## Experiments
-# <a name="SOURCES"></a> 4. SOURCES
+# <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
 ## definitions
 ## articles/readings/books
 ## visual 
