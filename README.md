@@ -115,6 +115,7 @@ Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht 
 Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront.
 https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
+---
 
 **What is a vakvereniging/vakbond?**
 
