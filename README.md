@@ -132,10 +132,11 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 *what is it now?*
 
 Vakbonden in Nederland
+
 [https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland](https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland)
 
 
-SOURCES:
+OTHER SOURCES:
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 
