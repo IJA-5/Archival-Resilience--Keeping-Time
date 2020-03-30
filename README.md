@@ -210,7 +210,7 @@ Vakbonden in Nederland
 - VVMC - (Vakbond voor Rijdend Personeel) (4.500 leden)
 - W.I.M. - Werknemersvereniging IKEA Medewerkers
 
----
+
 
 SOURCES:
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
@@ -230,7 +230,7 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 - lunch hour
 etc.
 
----
+
 
 SOURCES:
 
