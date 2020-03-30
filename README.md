@@ -22,6 +22,12 @@
    * definitions
    * articles/readings/books
    * visual 
+1. COMMENTS/NOTES 
+   * Martijn
+   * Hannes
+1. TO DO'S
+
+
 
 
 
@@ -44,7 +50,10 @@
 ## definitions
 ## articles/readings/books
 ## visual 
-
+# 1. COMMENTS
+## Martijn
+## Hannes
+# 1. TO DO's
 
 
 
