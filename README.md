@@ -229,11 +229,12 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 
 ## visualizations of time
 
-https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
+1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
 
 
+2. https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
 [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
-https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
+
 
 <p>&nbsp;</p>
 
