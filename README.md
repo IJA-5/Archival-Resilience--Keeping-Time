@@ -41,7 +41,7 @@
 *location of origin:*| the Netherlands
 
 <p>&nbsp;</p>
-
+---
 **Additional ARCHIVE RESOURCES:**
 
 *General:*
@@ -69,7 +69,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
 <p>&nbsp;</p>
-
+---
 **Questions about time:** 
 
 
@@ -122,7 +122,7 @@ De eerste vakverenigingen in Nederland waren vooral verenigingen voor onderlinge
 
 In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aangesloten bij een vakbond ("georganiseerd"). De syndicalisatiegraad in België bedraagt 54% (in de leeftijd 15-64 jaar), wat een van de hoogste percentages ter wereld is. Alleen Scandinavische landen scoren systematisch hoger. In maart 2013 waren in Nederland bijna 1,8 miljoen mensen lid van een vakbond.
 
-
+---
 
 *what is it now?*
 
@@ -205,13 +205,15 @@ Vakbonden in Nederland
 - VVMC - (Vakbond voor Rijdend Personeel) (4.500 leden)
 - W.I.M. - Werknemersvereniging IKEA Medewerkers
 
+---
 
 SOURCES:
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 
-<p>&nbsp;</p>
 
+<p>&nbsp;</p>
+---
 ## Vakverenigingen and the distribution of the work week
 
 
@@ -221,7 +223,9 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 - lunch hour
 etc.
 
+---
 SOURCES:
+
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
 
 https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
@@ -230,7 +234,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 
 <p>&nbsp;</p>
-
+---
 ## visualizations of time
 
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
@@ -265,7 +269,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 [Will Jenkins: The most precious commodity of all?](https://www.ted.com/talks/will_jenkins_the_most_precious_commodity_of_all)
 
 
-
+---
 #### 16/03/2020
 
 **Are there certain mechanisms in place to create a digital representation of this clock?** 
@@ -296,40 +300,12 @@ Hoe word/werd een klok gemaakt?
 
 Hoe kan ik dit object zelf archiveren? 3D model? 
 
----
 
-**TO DO:**
-
-- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
-
-[Canvas Clock](https://www.w3schools.com/graphics/canvas_clock.asp)
-
-[Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
-
-lectures
-
-[Maeda's 12 o'clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
-
-[Lecture 09-09b: Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)
-
-[Deliverables 02 (Due 9/16)](http://cmuems.com/2016/60212/deliverables/deliverables-02/)
-
-other clock examples:
-
-[Clocks - a Collection by Jacob Foster on CodePen](https://codepen.io/collection/DqRNLQ/?cursor=ZD0xJm89MCZwPTEmdj0xMzc0NjE1)
-
-[Digital Clock in JS | JavaScript Tutorials | Web Development Tutorials](https://www.youtube.com/watch?v=qvypCd2Vl4s)
-
-other cool coding examples to possibly help with the clock:
-
-[Coding Challenge #93: Double Pendulum](https://www.youtube.com/watch?v=uWzPe_S-RVE)
-
-- **doe experimenten/transcoding experimenten tijdens je onderzoek > wanneer je tijd linkt aan NVV, cultuur of andere dingen etc.**
 
 
 
 <p>&nbsp;</p>
-
+---
 ## Hannes
 
 #### 16/03/2020
@@ -349,13 +325,42 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 >> Sound to indicate time (> link this to the clock)
 
 > *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
-
+---
 
 
 <p>&nbsp;</p>
 
 # <a name="TO-DO'S"></a>6. TO DO's
 
+**TO DO:**
+
+- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
+
+[Canvas Clock](https://www.w3schools.com/graphics/canvas_clock.asp)
+
+[Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
+
+
+
+**lectures**
+
+[Maeda's 12 o'clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+
+[Lecture 09-09b: Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)
+
+[Deliverables 02 (Due 9/16)](http://cmuems.com/2016/60212/deliverables/deliverables-02/)
+
+**other clock examples:**
+
+[Clocks - a Collection by Jacob Foster on CodePen](https://codepen.io/collection/DqRNLQ/?cursor=ZD0xJm89MCZwPTEmdj0xMzc0NjE1)
+
+[Digital Clock in JS | JavaScript Tutorials | Web Development Tutorials](https://www.youtube.com/watch?v=qvypCd2Vl4s)
+
+other cool coding examples to possibly help with the clock:
+
+[Coding Challenge #93: Double Pendulum](https://www.youtube.com/watch?v=uWzPe_S-RVE)
+
+- **doe experimenten/transcoding experimenten tijdens je onderzoek > wanneer je tijd linkt aan NVV, cultuur of andere dingen etc.**
 
 
 
