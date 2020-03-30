@@ -137,7 +137,7 @@ Vakbonden in Nederland
 [https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland](https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland)
 
 
-OTHER SOURCES:
+**OTHER SOURCES:**
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 
@@ -157,7 +157,7 @@ etc.
 
 
 
-SOURCES:
+**SOURCES:**
 
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
 
