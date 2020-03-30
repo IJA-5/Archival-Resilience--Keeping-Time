@@ -19,6 +19,6 @@
    * Ideas/Concepts
    * Experiments
 1. SOURCES
-  * definitions
-  * articles/readings/books
-  * visual 
+   * definitions
+   * articles/readings/books
+   * visual 
