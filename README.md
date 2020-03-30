@@ -258,12 +258,38 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
+#### CONCEPT:
+Creating this main page that will be a digital visualization of the clock 
+- create some experiments with coding a clock
+- take the matteriality of the clock into consideration
+- REFERENCE: WINAMP, and their skins > each skin could be a different transcoding of the clock
+    * these could be linked by clicking on certain things/buttons on the page
+
+---
+
+#### EXPERIMENT IDEAS:
+1. working with the concept of sound and how it represents time
+1. working with the concept of circularity > everyday we have a certain schedule (ex: breakfast-lunch-dinner) but we are never in the same place and same time in space.
+1. working with the concept of time passing faster and slower > timelapse video's?
+1. working with different cultures and their perception of time
+1. Working in Corona time VS Working in regular time 
+
+
 
 ## Experiments
+
+
+
+<p>&nbsp;</p>
+
 # <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
 ## definitions
 ## articles/readings/books
 ## visual 
+
+
+<p>&nbsp;</p>
+
 # <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
 ## Martijn
 #### 9/03/2020
@@ -346,9 +372,8 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 
 # <a name="TO-DO'S"></a>6. TO DO's
 
-**TO DO:**
 
-- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
+- [] **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
 
 [Canvas Clock](https://www.w3schools.com/graphics/canvas_clock.asp)
 
