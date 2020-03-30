@@ -298,31 +298,7 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 # <a name="TO-DO'S"></a>6. TO DO's
 
 
-- [] **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
-
-[Canvas Clock](https://www.w3schools.com/graphics/canvas_clock.asp)
-
-[Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
-
-
-
-**lectures**
-
-[Maeda's 12 o'clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
-
-[Lecture 09-09b: Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)
-
-[Deliverables 02 (Due 9/16)](http://cmuems.com/2016/60212/deliverables/deliverables-02/)
-
-**other clock examples:**
-
-[Clocks - a Collection by Jacob Foster on CodePen](https://codepen.io/collection/DqRNLQ/?cursor=ZD0xJm89MCZwPTEmdj0xMzc0NjE1)
-
-[Digital Clock in JS | JavaScript Tutorials | Web Development Tutorials](https://www.youtube.com/watch?v=qvypCd2Vl4s)
-
-other cool coding examples to possibly help with the clock:
-
-[Coding Challenge #93: Double Pendulum](https://www.youtube.com/watch?v=uWzPe_S-RVE)
+- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
 
 - **doe experimenten/transcoding experimenten tijdens je onderzoek > wanneer je tijd linkt aan NVV, cultuur of andere dingen etc.**
 
