@@ -32,7 +32,12 @@
 
 # <a name="ARTIFACT"></a> 1. ARTIFACT
 ![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)
-
+**INFORMATION ARCHIVE**
+*object:* NVV Elektrische wekker
+*time period:*	1950-1974
+*physicality:* plastic
+*subject:* object
+*location of origin:* the Netherlands
 
 
 # <a name="RESEARCH"></a> 2. RESEARCH
