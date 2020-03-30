@@ -41,7 +41,9 @@
 *location of origin:*| the Netherlands
 
 <p>&nbsp;</p>
+
 ---
+
 **Additional ARCHIVE RESOURCES:**
 
 *General:*
@@ -69,7 +71,9 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
 <p>&nbsp;</p>
+
 ---
+
 **Questions about time:** 
 
 
@@ -213,7 +217,9 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 
 <p>&nbsp;</p>
+
 ---
+
 ## Vakverenigingen and the distribution of the work week
 
 
@@ -224,6 +230,7 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 etc.
 
 ---
+
 SOURCES:
 
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
@@ -234,7 +241,9 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 
 <p>&nbsp;</p>
+
 ---
+
 ## visualizations of time
 
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
@@ -270,6 +279,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 
 ---
+
 #### 16/03/2020
 
 **Are there certain mechanisms in place to create a digital representation of this clock?** 
@@ -305,7 +315,9 @@ Hoe kan ik dit object zelf archiveren? 3D model?
 
 
 <p>&nbsp;</p>
+
 ---
+
 ## Hannes
 
 #### 16/03/2020
@@ -325,6 +337,7 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 >> Sound to indicate time (> link this to the clock)
 
 > *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
+
 ---
 
 
