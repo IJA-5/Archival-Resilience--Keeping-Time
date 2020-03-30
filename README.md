@@ -6,8 +6,8 @@
 1. [ARTIFACT](#ARTIFACT)
 1. [RESEARCH](#RESEARCH)
    * What is time?
-    * Definition
-    * Questions about time
+      * Definition
+      * Questions about time
    * NVV: Nederlands Verbond van Vakverenigingen
     * Who was the NVV?
     * What is a vakvereniging/vakbond?
@@ -33,13 +33,13 @@
 # <a name="ARTIFACT"></a> 1. ARTIFACT
 # <a name="RESEARCH"></a> 2. RESEARCH
 ## What is time?
-### Definition
-### Questions about time
+**Definition**
+**Questions about time**
 ## NVV: Nederlands Verbond van Vakverenigingen
-### Who was the NVV?
-### What is a vakvereniging/vakbond?
-**what was it then?**
-**what is it now?**
+**Who was the NVV?**
+**What is a vakvereniging/vakbond?**
+*what was it then?*
+*what is it now?*
 ## Vakverenigingen and the distribution of the work week
 ## visualizations of time
 # <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
