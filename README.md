@@ -15,17 +15,18 @@
       * what is it now?
     * Vakverenigingen and the distribution of the work week
     * visualizations of time
-1. RESILIENCE OF THE ARTIFACT: TRANSCODING
+1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
    * Ideas/Concepts
    * Experiments
-1. SOURCES
+1. [SOURCES](#SOURCES)
    * definitions
    * articles/readings/books
    * visual 
-1. COMMENTS/NOTES 
+1. [COMMENTS/NOTES](#COMMENTS/NOTES) 
    * Martijn
    * Hannes
-1. TO DO'S
+   * Own thoughts
+1. [TO DO'S](#TO-DO'S)
 
 
 
@@ -41,17 +42,17 @@
 **what is it now?**
 ## Vakverenigingen and the distribution of the work week
 ## visualizations of time
-# 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
+# <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
 ## Experiments
-# 4. SOURCES
+# <a name="SOURCES"></a> 4. SOURCES
 ## definitions
 ## articles/readings/books
 ## visual 
-# 5. COMMENTS
+# <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
 ## Martijn
 ## Hannes
-# 6. TO DO's
+# <a name="TO-DO'S"></a>6. TO DO's
 
 
 
