@@ -31,6 +31,10 @@
 
 
 # <a name="ARTIFACT"></a> 1. ARTIFACT
+![Image of the NVV clock](https://
+
+
+
 # <a name="RESEARCH"></a> 2. RESEARCH
 ## What is time?
 **Definition**
