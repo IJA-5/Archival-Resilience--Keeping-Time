@@ -64,11 +64,13 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 # <a name="RESEARCH"></a> 2. RESEARCH
 ## What is time?
-**Definition** <p>&nbsp;</p>
+**Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
+<p>&nbsp;</p>
+
+**Questions about time** 
 
 
-**Questions about time**
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
 
@@ -80,18 +82,19 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 - sun
 
 
-what is the cultural implication of time?
+*what is the cultural implication of time?*
 
 - think about a western country and a country like cuba.
 
 
 
-What is time when you’re deaf? 
+*What is time when you’re deaf?*
 
 - Hand signs for time
 
 
 <p>&nbsp;</p>
+
 ## NVV: Nederlands Verbond van Vakverenigingen
 **Who was the NVV?**
 **What is a vakvereniging/vakbond?**
