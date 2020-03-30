@@ -66,7 +66,8 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 ## What is time?
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
-![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true =100x)
+![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
+<img src="definitionoftime.png" alt="definition of time" width="100"/>
 <p>&nbsp;</p>
 
 **Questions about time:** 
