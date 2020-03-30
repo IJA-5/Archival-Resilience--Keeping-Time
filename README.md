@@ -3,7 +3,7 @@
 > Time waits for no one. – Folklore.
 
 ## Table of contents
-1. ARTIFACT
+[create an anchor](1. ARTIFACT)
 1. RESEARCH
    * What is time?
     * Definition
