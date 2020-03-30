@@ -96,7 +96,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 *What is the concept of time?*
 
 Reference: Lucy
-[![LUCY reference]()](https://www.youtube.com/watch?v=FiKcyYEInf8)
+[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 <p>&nbsp;</p>
