@@ -32,7 +32,7 @@
 
 
 # 1. ARTIFACT
-# 1. RESEARCH
+# 2. RESEARCH
 ## What is time?
 ### Definition
 ### Questions about time
@@ -43,17 +43,17 @@
 **what is it now?**
 ## Vakverenigingen and the distribution of the work week
 ## visualizations of time
-# 1. RESILIENCE OF THE ARTIFACT: TRANSCODING
+# 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
 ## Experiments
-# 1. SOURCES
+# 4. SOURCES
 ## definitions
 ## articles/readings/books
 ## visual 
-# 1. COMMENTS
+# 5. COMMENTS
 ## Martijn
 ## Hannes
-# 1. TO DO's
+# 6. TO DO's
 
 
 
