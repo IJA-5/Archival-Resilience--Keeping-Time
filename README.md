@@ -213,7 +213,8 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 <p>&nbsp;</p>
 
 ## Vakverenigingen and the distribution of the work week
-https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
+
+
 - 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
 - the weekend
 - 9 to 5
@@ -222,7 +223,10 @@ etc.
 
 SOURCES:
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
+
 https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
+
+https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
 
 
 <p>&nbsp;</p>
@@ -240,6 +244,7 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
+
 ## Experiments
 # <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
 ## definitions
@@ -247,7 +252,108 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 ## visual 
 # <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
 ## Martijn
+#### 9/03/2020
+- time, work and social structure
+- different type of calenders
+- prague - central square clock
+- the rodina >> projects about time
+
+[info](https://www.therodina.com/info/)
+
+[Philip Zimbardo: The psychology of time](https://www.ted.com/talks/philip_zimbardo_the_psychology_of_time)
+
+[Will Jenkins: The most precious commodity of all?](https://www.ted.com/talks/will_jenkins_the_most_precious_commodity_of_all)
+
+
+
+#### 16/03/2020
+
+**Are there certain mechanisms in place to create a digital representation of this clock?** 
+
+- in je code kun je hebben dat iets update elke seconde > hier kun je iets aan linken visueel (iets dat groeit of krimpt, of beweegt, of update, of cijfers veranderen)
+- hoe ga je de uren, minuten, seconden visualizeren? letterlijk of visueel
+- licht klokken > veranderen op basis van zonlicht
+- structuur van de dag > licht en dag
+- verschillen de skins maken voor de klok > op basis van verschillende perspectieven (verschillende manieren van tijds besef visualizeren)
+
+[skins winamp - Google Search](https://www.google.com/search?q=skins+winamp&tbm=isch&chips=q:skins+winamp,g_1:classic:N4aORogdCPs%3D&hl=en-GB&ved=2ahUKEwiL_4rf_J7oAhURtqQKHW2RDJQQ4lYoAXoECAEQFw&biw=1680&bih=943#imgrc=aPALkrDKEjPAmM)
+
+- de tijd is circulair maar we zijn nooit op hetzelfde punt als gisteren.
+    - loop in de arbeid/ herhaling >>> werk van 9  tot 5 met lunch tussenin elke dag
+    - Doe iets met deze loop
+
+    [https://3.bp.blogspot.com/-JGrYcDcyGn8/WWTfRFZChPI/AAAAAAAAJX0/dZn1Rb-G8_kplovUZlhr6CjQV51kjSbkACLcBGAs/s640/tumblr_mj0vvcqnZx1qdlh1io1_400.gif](https://3.bp.blogspot.com/-JGrYcDcyGn8/WWTfRFZChPI/AAAAAAAAJX0/dZn1Rb-G8_kplovUZlhr6CjQV51kjSbkACLcBGAs/s640/tumblr_mj0vvcqnZx1qdlh1io1_400.gif)
+
+probeer tijd altijd te koppelen aan iets anders > zodat het niet te groot word!
+
+- vakbond
+- cultuur
+- etc.
+
+Textueel onderzoek gedaan > doe daar een klein experiment mee! zodat je niet vast blijft zitten in alleen het onderzoek!
+
+Hoe word/werd een klok gemaakt? 
+
+Hoe kan ik dit object zelf archiveren? 3D model? 
+
+---
+
+**TO DO:**
+
+- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
+
+[Canvas Clock](https://www.w3schools.com/graphics/canvas_clock.asp)
+
+[Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
+
+lectures
+
+[Maeda's 12 o'clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+
+[Lecture 09-09b: Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)
+
+[Deliverables 02 (Due 9/16)](http://cmuems.com/2016/60212/deliverables/deliverables-02/)
+
+other clock examples:
+
+[Clocks - a Collection by Jacob Foster on CodePen](https://codepen.io/collection/DqRNLQ/?cursor=ZD0xJm89MCZwPTEmdj0xMzc0NjE1)
+
+[Digital Clock in JS | JavaScript Tutorials | Web Development Tutorials](https://www.youtube.com/watch?v=qvypCd2Vl4s)
+
+other cool coding examples to possibly help with the clock:
+
+[Coding Challenge #93: Double Pendulum](https://www.youtube.com/watch?v=uWzPe_S-RVE)
+
+- **doe experimenten/transcoding experimenten tijdens je onderzoek > wanneer je tijd linkt aan NVV, cultuur of andere dingen etc.**
+
+
+
+<p>&nbsp;</p>
+
 ## Hannes
+
+#### 16/03/2020
+How do you transcode the conceptual vs the more abstract (concept of time)
+
+- how would you translate the clock into digital visualization - design, visual?
+- come up with a couple of sketches of how this clock could be a digital thing > website?
+- Time is a system (structure to your time, your life >> how does this work?)
+- google calender, photo albums, apple photo's apps
+- apple photo's apps > different ways of catagorizing time. (make a list of these different examples of time catagorization)
+
+**analogue representations of time could be side projects of the main digital representation of the clock**
+
+- check-in check out systems of the work place (the punch card
+- wistle in the factory indicating lunchtime / bell for lunchtime
+
+>> Sound to indicate time (> link this to the clock)
+
+> *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
+
+
+
+<p>&nbsp;</p>
+
 # <a name="TO-DO'S"></a>6. TO DO's
 
 
