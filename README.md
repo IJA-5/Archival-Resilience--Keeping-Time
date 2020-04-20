@@ -68,7 +68,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 # <a name="RESEARCH"></a> 2. RESEARCH
 
 <details>
- <summary> <a name="what-is-time?"></a>What is time?</summary>
+ <summary> <a name="what-is-time?"></a>1)WHAT IS TIME?</summary>
  
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
@@ -76,11 +76,8 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 </details>
 
-<p>&nbsp;</p>
-
----
 <details>
- <summary>**"FACTS" ABOUT TIME**</summary>
+ <summary> 2)"FACTS" ABOUT TIME</summary>
  
 Standart time = globally accepted standart of time measurement >> 
 
@@ -104,10 +101,8 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 </details>
 
----
-
 <details>
- <summary>**Questions about time:** </summary>
+ <summary>3)QUESTIONS ABOUT TIME</summary>
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
@@ -137,8 +132,8 @@ Reference: Lucy
 
 </details>
 
----
-**3) HOW IS TIME DEFINED IN CULTURE?**
+<details>
+  <summary> 4)HOW IS TIME DEFINED IN CULTURE?</summary>
 
 **time-orientated**
 
@@ -191,12 +186,11 @@ study of the use of time and the way that time is perceived and valued by indivi
 SOURCE:
 [Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
 
----
-
-<p>&nbsp;</p>
+</details> 
 
 
-## NVV: Nederlands Verbond van Vakverenigingen
+<details> 
+  <summary> NVV: Nederlands Verbond van Vakverenigingen</summary>
 <details>
  <summary>**Who was the NVV?**</summary>
  
@@ -207,7 +201,6 @@ https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
 </details>
 
----
 <details>
  <summary>**What is a vakvereniging/vakbond?**</summary>
 
@@ -234,9 +227,6 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 </details>
 
-<p>&nbsp;</p>
-
----
 <details>
   <summary>Vakverenigingen and the distribution of the work week</summary>
 
@@ -258,10 +248,9 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
 
 </details>
+</details>
 
-<p>&nbsp;</p>
 
----
 <details>
   <summary> visualizations of time <summary>
    
@@ -274,6 +263,8 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 </details>
 
 <p>&nbsp;</p>
+
+---
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
