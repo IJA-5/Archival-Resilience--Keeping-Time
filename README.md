@@ -72,8 +72,10 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 <details>
   <summary> 1.1 definition <summary>
+    
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
+
 </details>
 
 <details>
