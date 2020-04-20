@@ -68,7 +68,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 # <a name="RESEARCH"></a> 2. RESEARCH
 
 <details>
- <summary>## <a name="what-is-time?"></a>What is time?</summary>
+ <summary> <a name="what-is-time?"></a>What is time?</summary>
  
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
@@ -79,9 +79,9 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 <p>&nbsp;</p>
 
 ---
-
-**"FACTS" ABOUT TIME**
-
+<details>
+ <summary>**"FACTS" ABOUT TIME**</summary>
+ 
 Standart time = globally accepted standart of time measurement >> 
 
 SI system = Seconds are the base unit in this system
@@ -102,11 +102,12 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 **System time** on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. **Several variations of **metric time** are used in computing. The widely-used **UNIX time** is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s **FILETIME** uses multiples of 100ns since 1 January 1601. **OpenVMS** uses the number of 100ns since 17 November 1858, and **RISC OS** use the number of centiseconds since 1 January 1900. Most computers use the **Network Time Protocol** (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above).
 
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
+</details>
 
 ---
 
-**Questions about time:** 
-
+<details>
+ <summary>**Questions about time:** </summary>
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
@@ -133,6 +134,8 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 *What is the concept of time?*
 Reference: Lucy
 [![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
+
+</details>
 
 ---
 **3) HOW IS TIME DEFINED IN CULTURE?**
@@ -192,17 +195,21 @@ SOURCE:
 
 <p>&nbsp;</p>
 
-## NVV: Nederlands Verbond van Vakverenigingen
-**Who was the NVV?**
 
+## NVV: Nederlands Verbond van Vakverenigingen
+<details>
+ <summary>**Who was the NVV?**</summary>
+ 
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
 Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront.
 https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
----
+</details>
 
-**What is a vakvereniging/vakbond?**
+---
+<details>
+ <summary>**What is a vakvereniging/vakbond?**</summary>
 
 *what was it then?*
 
@@ -225,13 +232,13 @@ Vakbonden in Nederland
 **OTHER SOURCES:**
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
-
+</details>
 
 <p>&nbsp;</p>
 
 ---
-
-## Vakverenigingen and the distribution of the work week
+<details>
+  <summary>Vakverenigingen and the distribution of the work week</summary>
 
 
 - 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
@@ -250,19 +257,21 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 
 https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
 
+</details>
 
 <p>&nbsp;</p>
 
 ---
-
-## visualizations of time
-
+<details>
+  <summary> visualizations of time <summary>
+   
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
 
 
 2. https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
 [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
 
+</details>
 
 <p>&nbsp;</p>
 
