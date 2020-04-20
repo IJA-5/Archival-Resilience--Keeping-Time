@@ -848,7 +848,9 @@ by itself)
 
 Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
 
-**2) TRANSCRIBING of TIME PERSPECTIVE**
+---
+
+## 2) TRANSCRIBING of TIME PERSPECTIVE
 
 ### 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
