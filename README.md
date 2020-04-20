@@ -4,18 +4,18 @@
 ## Table of contents
 1. [ARTIFACT](#ARTIFACT)
 1. [RESEARCH](#RESEARCH)
-   * [what is time](#what-is-time?) 
-      * Definition
-      * facts about time
-      * Questions about time
-      * how is time defined in culture?
-   * NVV: Nederlands Verbond van Vakverenigingen
-    * Who was the NVV?
-    * What is a vakvereniging/vakbond?
-      * what was it then?
-      * what is it now?
-    * Vakverenigingen and the distribution of the work week
-    * visualizations of time
+   * 1) WHAT IS TIME?
+      * 1.1 Definition
+      * 1.2 facts about time
+      * 1.3 Questions about time
+      * 1.4 how is time defined in culture?
+   * 2) NVV: Nederlands Verbond van Vakverenigingen
+    * 2.1 Who was the NVV?
+    * 2.2 What is a vakvereniging/vakbond?
+      * 2.2.1 what was it then?
+      * 2.2.2 what is it now?
+    * 2.3 Vakverenigingen and the distribution of the work week
+   * 3)Visualizations of time
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
    * Ideas/Concepts
    * Experiments
@@ -68,16 +68,14 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 # <a name="RESEARCH"></a> 2. RESEARCH
 
 <details>
- <summary> <a name="what-is-time?"></a>1)WHAT IS TIME?</summary>
+ <summary>1)WHAT IS TIME?</summary>
  
-**Definition** 
+**1.1Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
-</details>
-
 <details>
- <summary> 2)"FACTS" ABOUT TIME</summary>
+ <summary> 1.2 "FACTS" ABOUT TIME</summary>
  
 Standart time = globally accepted standart of time measurement >> 
 
@@ -102,7 +100,7 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 </details>
 
 <details>
- <summary>3)QUESTIONS ABOUT TIME</summary>
+ <summary>1.3 QUESTIONS ABOUT TIME</summary>
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
@@ -133,7 +131,7 @@ Reference: Lucy
 </details>
 
 <details>
-  <summary> 4)HOW IS TIME DEFINED IN CULTURE?</summary>
+  <summary> 1.4 HOW IS TIME DEFINED IN CULTURE?</summary>
 
 **time-orientated**
 
@@ -187,12 +185,13 @@ SOURCE:
 [Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
 
 </details> 
+</details>
 
 
 <details> 
-  <summary> 5) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN</summary>
+  <summary> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN</summary>
 <details>
- <summary>Who was the NVV?</summary>
+ <summary>2.1 Who was the NVV?</summary>
  
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
@@ -202,9 +201,9 @@ https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 </details>
 
 <details>
- <summary>What is a vakvereniging/vakbond?</summary>
+ <summary>2.2 What is a vakvereniging/vakbond?</summary>
 
-*what was it then?*
+*2.2.1 what was it then?*
 
 Een vakbond, vakvereniging, werknemersvereniging, vakorganisatie of syndicaat is een organisatie die de individuele en collectieve belangen van aangesloten werknemers behartigt.
 
@@ -215,7 +214,7 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 
 ---
 
-*what is it now?*
+*2.2.2 what is it now?*
 
 Vakbonden in Nederland
 
@@ -228,7 +227,7 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 </details>
 
 <details>
-  <summary>Vakverenigingen and the distribution of the work week</summary>
+  <summary>2.3 Vakverenigingen and the distribution of the work week</summary>
 
 
 - 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
@@ -251,13 +250,14 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 </details>
 
 
-<details>
-  <summary> visualizations of time <summary>
+### 3)visualizations of time 
+
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
+
 2. https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
 [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
 
-</details>
+
 
 <p>&nbsp;</p>
 
