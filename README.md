@@ -1030,6 +1030,39 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 
 ---
 
+#### 20/04/2020
+**Design Translation tips:**
+
+- look more in detail to the clock and ask yourself the questions like:
+    - what typefaces are used?
+    - what is the industrial language of the clock?
+
+    How could you translate these into the website?
+
+- look into modernism ⇒ how is this linked to the clock design?
+    - INSPIRATION: work of experimental jetset
+
+    [experimental jetsets work - Google Search](https://www.google.com/search?q=experimental+jetsets+work&safe=active&rlz=1C5CHFA_enNL878NL878&sxsrf=ALeKk01V6XVkHfeeFDfn2ZN4Z6EotjIoqw:1587393884593&source=lnms&tbm=isch&sa=X&ved=2ahUKEwin6--En_foAhXK_qQKHdRUBuUQ_AUoAXoECBEQAw)
+
+    [Experimental Jetset - Online Archive](https://www.experimentaljetset.nl/)
+
+**OVERALL TIPS:**
+
+- remember the question of resilience! 
+⇒ how can you link it back to the archive? 
+⇒ think about what happens when you replace your end result with the archive object, what happens for its resilience?
+- Ask yourself the following questions:
+⇒  who is this for? 
+⇒ what do they feel when they are looking at it?
+⇒ How does the archive become a focus in your design?
+⇒ What is the position/intention of your digital clock?
+- remember the link with the NVV
+⇒ organizing laybor movements
+⇒ struggle of the workers to get rights for work 
+→→→ see how this links to your website?
+- when designing think about where you can put your research information!
+⇒ creating a timeline/history overview when it comes to the NVV info related to time and work
+⇒ maybe the website could interact with the hours of the day → each hour a new fact of the timeline/history is shared? or else?
 
 <p>&nbsp;</p>
 
