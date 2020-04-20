@@ -57,13 +57,15 @@
 
 **Additional ARCHIVE RESOURCES:**
 
-*General/main source:*
-
+<details> 
+  <summary> General/main source of the artifact - IISG </summary>
+  
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
+</details
 
-*NVV Related sources:*
-
+<details>
+  <summary> NVV related sources - IISG </summary>
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#9a63df53b40046acb12b2f176925a6e9
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#f9bf66988c5446689a2f03fffc138650
@@ -71,6 +73,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#3d5bc5bfcb684
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#91ff98c96fe5473ca7744ff6ae8200cc
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#40c11dda06ed4cd89fcdaca24e456d38
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4c7d842188ceb46fddcd
+</details>
 
 
 <p>&nbsp;</p>
@@ -844,6 +847,31 @@ by itself)
 ![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
 Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
+
+**2) TRANSCRIBING of TIME PERSPECTIVE**
+
+### 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
+
+#### >>> website sketch
+![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
+
+#### >>> audio trials
+*trial 1*  - sounds of a day: MORNING TIME
+
+*trial 2* - sounds of a day 2: LUNCH TIME
+
+*trial 3* - sounds of a day 3: EVENING TIME
+
+these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
+
+### 2.2 Creating an additional channel which visually represents notions of time (but without audio)
+#### >>> website sketch
+![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
+
+#### >>> video trials
+
+*trial 1* - corona time 
+
 
 
 <p>&nbsp;</p>
