@@ -843,6 +843,9 @@ by itself)
 ### 1 - website 
 #### Sketch 1 - Winamp inspired control board
 ![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
+![mainwebsitesketch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website2.png?raw=true)
+
+****>>> need the skin/website to look more like the original clock, but not to exactly copy it! HOW?****
 
 ### 2 - clock sketches
 #### 2.1 Alarm clock - flipping effect
@@ -890,7 +893,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 #### >>> video trials
 
 *trial 1* - MORNING TIMES
-
+[![worktime_vid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)(https://www.youtube.com/watch?v=VFdph-zGl50)
 
 <p>&nbsp;</p>
 
