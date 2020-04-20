@@ -883,7 +883,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 [![MorningTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/morningtime.jpg?raw=true)](https://www.youtube.com/watch?v=QMLKi5Jl0ug)
 
 *trial 2* - sounds of a day 2: WORK TIME
-[![WorkTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime.jpg?raw=true)(https://www.youtube.com/watch?v=c3qnNQOGXzY)
+[![WorkTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime.jpg?raw=true)](https://www.youtube.com/watch?v=c3qnNQOGXzY)
 
 
 > These could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
