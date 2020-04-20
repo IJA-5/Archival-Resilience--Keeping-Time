@@ -913,7 +913,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 ## VISUAL
 1. [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
 
-2. [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
+2. [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism)
 
 <p>&nbsp;</p>
 
@@ -1026,7 +1026,6 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 
 > *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
 
-</details>
 
 ---
 
@@ -1064,6 +1063,7 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 ⇒ creating a timeline/history overview when it comes to the NVV info related to time and work
 ⇒ maybe the website could interact with the hours of the day → each hour a new fact of the timeline/history is shared? or else?
 
-<p>&nbsp;</p>
+
+</details>
 
 
