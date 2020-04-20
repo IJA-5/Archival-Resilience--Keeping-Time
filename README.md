@@ -190,9 +190,9 @@ SOURCE:
 
 
 <details> 
-  <summary> NVV: Nederlands Verbond van Vakverenigingen</summary>
+  <summary> 5) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN</summary>
 <details>
- <summary>**Who was the NVV?**</summary>
+ <summary>Who was the NVV?</summary>
  
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
@@ -202,7 +202,7 @@ https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 </details>
 
 <details>
- <summary>**What is a vakvereniging/vakbond?**</summary>
+ <summary>What is a vakvereniging/vakbond?</summary>
 
 *what was it then?*
 
@@ -253,10 +253,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 <details>
   <summary> visualizations of time <summary>
-   
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
-
-
 2. https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
 [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
 
