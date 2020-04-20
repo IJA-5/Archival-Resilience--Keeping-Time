@@ -41,7 +41,7 @@
 1. [COMMENTS/NOTES](#COMMENTS/NOTES) 
    * Martijn
    * Hannes
-   * Own thoughts
+   * Notes
 
 
 
@@ -841,6 +841,8 @@ by itself)
 
 ***MAIN CONCEPT/IDEA:*** *Website that links all the transcodings together, with main focus a clock like object*
 ### 1 - website 
+#### Sketch 1 - Winamp inspired control board
+![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
 
 ### 2 - clock sketches
 #### 2.1 Alarm clock - flipping effect
@@ -958,6 +960,42 @@ Textueel onderzoek gedaan > doe daar een klein experiment mee! zodat je niet vas
 Hoe word/werd een klok gemaakt? 
 
 Hoe kan ik dit object zelf archiveren? 3D model? 
+
+---
+
+## 20/04
+**Skins clock terug linken aan NVV's link to time**
+
+→ 9 to 5 schedule
+
+→ begin time, lunch time, end time
+
+→ 48 hour work week
+
+**Set skins of the website to change at certain times in the day**
+
+⇒ these times should be linked to the narrative of the NVV
+
+**Coding tips:**
+
+1) Making something happen every x amount of time
+
+>>> setInterval() Method 
+
+[Window setInterval() Method](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+
+>>> setTimeout() Method 
+
+[Window setTimeout() Method](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+
+2) making skins change at certain times
+
+1. check time with setInterval() or setTimeout Method → the function is then that time is checked each minute
+2. 1 PM? 
+    - No?  →  no change
+    - Yes?  → change the skin
+
+    [How To Work with Date and Time in JavaScript using Date Objects | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
 </details>
 
