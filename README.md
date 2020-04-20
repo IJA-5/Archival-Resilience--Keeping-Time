@@ -857,6 +857,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 #### >>> audio trials
 *trial 1*  - sounds of a day: MORNING TIME
+[![MorningTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/morningtime.jpg?raw=true)](https://www.youtube.com/watch?v=QMLKi5Jl0ug)
 
 *trial 2* - sounds of a day 2: LUNCH TIME
 
