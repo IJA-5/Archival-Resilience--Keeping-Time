@@ -832,17 +832,18 @@ by itself)
 ## Experiments for transcoding
 **1) EXPLORING THE MATERIALITY**
 
-**What does the clock look like?**
+#### 1 - What does the clock look like?
 
 - measurements: roughly 12 cm width x 5 cm height
 - colours: clock: orange and black, typography: white
 - text: NVV
 - numbers: 3:24
 
-#### understandings of the clock
+#### 2 - understandings of the clock
 ![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
 ![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
+Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
 
 
 <p>&nbsp;</p>
