@@ -41,7 +41,7 @@
 1. [COMMENTS/NOTES](#COMMENTS/NOTES) 
    * Martijn
    * Hannes
-   * Own thoughts
+   * Notes
 
 
 
