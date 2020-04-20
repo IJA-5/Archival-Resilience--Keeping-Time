@@ -853,11 +853,11 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 ![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
 
 #### >>> audio trials
-*trial 1*  - sounds of a day
+*trial 1*  - sounds of a day: MORNING TIME
 
-*trial 2* - sounds of a day 2
+*trial 2* - sounds of a day 2: LUNCH TIME
 
-*trial 3* - sounds of a day 3
+*trial 3* - sounds of a day 3: EVENING TIME
 
 these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
