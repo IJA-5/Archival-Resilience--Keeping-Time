@@ -28,7 +28,12 @@
       * concept/main idea
       * transcoding topics & possibilities
    * Experiments 
-      * 1 - Exloring the materiality 
+      * 1 - EXPLORING THE MATERIALITY
+        * 1.1 - What does the clock look like?
+        * 1.2 - Understandings of the clock - how does it tick?
+      * 2 - TRANSCRIBING of TIME PERSPECTIVE
+        * 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
+        * 2.2 - Creating an additional channel which visually represents notions of time (but without audio)
 1. [ADDITIONAL SOURCES](#ADDITIONAL-SOURCES)
    * definitions
    * articles/readings/books
@@ -832,17 +837,26 @@ by itself)
 
 ---
 
-## Experiments for transcoding
+## TRANSCODING
+
+***MAIN CONCEPT/IDEA:*** *Website that links all the transcodings together, with main focus a clock like object*
+### 1 - website 
+
+### 2 - clock sketches
+#### 2.1 Alarm clock - flipping effect
+![flippingalarm](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarm-clocktrial.jpg?raw=true)
+
+
 **1) EXPLORING THE MATERIALITY**
 
-#### 1 - What does the clock look like?
+#### 1.1 - What does the clock look like?
 
 - measurements: roughly 12 cm width x 5 cm height
 - colours: clock: orange and black, typography: white
 - text: NVV
 - numbers: 3:24
 
-#### 2 - understandings of the clock
+#### 1.2 - Understandings of the clock - how does it tick?
 ![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
 ![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
