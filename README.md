@@ -25,7 +25,10 @@
    * 3 - VISUALIZATIONS OF TIME
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * Ideas/Concepts
-   * Experiments
+      * concept/main idea
+      * transcoding topics & possibilities
+   * Experiments 
+      * 1 - Exloring the materiality 
 1. [ADDITIONAL SOURCES](#ADDITIONAL-SOURCES)
    * definitions
    * articles/readings/books
@@ -284,16 +287,21 @@ Creating this main page that will be a digital visualization of the clock
     * these could be linked by clicking on certain things/buttons on the page
 
 ---
+### Transcoding topics/possibilities
 
 **1) linear vs cyclical time perception**
 1. LINEAR TIME = past, present future only exists once
 1. CYCLICAL TIME = repetitions of periods
 
+<details>
+  <summary> SOURCES </summary>
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
 
 [Is Time Linear or Cyclical?](https://www.theperspective.com/debates/living/perspective-time-linear-cyclical/)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
+
+</details>
 
 **2) time-orientation**
 
@@ -818,7 +826,7 @@ by itself)
 ---
 
 ## Experiments for transcoding
-**1) MATERIALITY OF THE CLOCK**
+**1) EXPLORING THE MATERIALITY**
 
 **What does the clock look like?**
 
