@@ -863,7 +863,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 [![WorkTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime.jpg?raw=true)](https://www.youtube.com/watch?v=c3qnNQOGXzY)
 
 
-these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
+> These could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
 ### 2.2 Creating an additional channel which visually represents notions of time (but without audio)
 #### >>> website sketch
@@ -871,8 +871,7 @@ these could later also maybe be other type of representations, like sounds of a 
 
 #### >>> video trials
 
-*trial 1* - corona time 
-
+*trial 1* - MORNING TIMES
 
 
 <p>&nbsp;</p>
