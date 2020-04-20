@@ -66,10 +66,15 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 <p>&nbsp;</p>
 
 # <a name="RESEARCH"></a> 2. RESEARCH
-## <a name="what-is-time?"></a>What is time?
+
+<details>
+ <summary>## <a name="what-is-time?"></a>What is time?</summary>
+ 
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
+
+</details>
 
 <p>&nbsp;</p>
 
