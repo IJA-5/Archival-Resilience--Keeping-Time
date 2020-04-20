@@ -6,7 +6,9 @@
 1. [RESEARCH](#RESEARCH)
    * What is time?
       * Definition
+      * facts about time
       * Questions about time
+      * how is time defined in culture?
    * NVV: Nederlands Verbond van Vakverenigingen
     * Who was the NVV?
     * What is a vakvereniging/vakbond?
@@ -73,7 +75,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 ---
 
-**2) "FACTS" ABOUT TIME**
+**"FACTS" ABOUT TIME**
 
 Standart time = globally accepted standart of time measurement >> 
 
@@ -97,7 +99,6 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 
 ---
-<p>&nbsp;</p>
 
 **Questions about time:** 
 
@@ -128,6 +129,58 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 Reference: Lucy
 [![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
+---
+**3) HOW IS TIME DEFINED IN CULTURE?**
+
+[Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
+
+**time-orientated**
+
+→ future
+
+→ present
+
+orientated cultures
+
+→  past 
+
+**pre-industrial cultures**
+
+- pirahã tribe from Amazone
+- hopi tribe Arizona
+- Kapauku tribe-papua new guinea (hunters and gatherers)
+
+**Chronemics**
+
+study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure.
+
+**economics and time**
+
+→ wealthy societies tend to move faster
+
+**industrialisation** 
+
+→ from time surplus TO time affluence TO time famine society
+
+**climate & time**
+
+→ hotter countries are more slow pace
+
+**individualistic vs social oriented**
+
+→ time-is-money vs enjoying life
+
+**time discipline**
+
+→ field in sociology linked to time analysis with regards to culture
+
+**time and religion**
+
+→ the rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological 
+
+**time and language**
+
+→ different concept of time in different languages
 ---
 
 <p>&nbsp;</p>
