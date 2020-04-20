@@ -837,7 +837,9 @@ by itself)
 - text: NVV
 - numbers: 3:24
 
-
+#### understandings of the clock
+![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
+![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
 
 
@@ -852,8 +854,8 @@ by itself)
 
 ## articles/readings/books
 ## visual 
-[shilpagupta art installation kassel]https://shilpagupta.com/i-keep-falling-at-you/
-https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism
+[shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+[Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
 
 <p>&nbsp;</p>
 
