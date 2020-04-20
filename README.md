@@ -286,8 +286,8 @@ Creating this main page that will be a digital visualization of the clock
 ---
 
 **1) linear vs cyclical time perception**
-LINEAR TIME = past, present future only exists once
-CYCLICAL TIME = repetitions of periods
+1. LINEAR TIME = past, present future only exists once
+1. CYCLICAL TIME = repetitions of periods
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
 
@@ -800,8 +800,11 @@ by itself)
 </details>
 
 
+---
+
+
 <details>
-  <summary> Extra possible transcoding ideas>
+  <summary> Extra possible transcoding ideas</summary>
     
 #### EXPERIMENT IDEAS:
 1. working with the concept of sound and how it represents time
