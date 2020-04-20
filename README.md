@@ -846,6 +846,8 @@ by itself)
 ![mainwebsitesketch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website2.png?raw=true)
 
 ****>>> need the skin/website to look more like the original clock, but not to exactly copy it! HOW?****
+1. make sure there is more of a visual link to the original clock
+2. ensure a reference to the NVV and the evolution of work and time
 
 ### 2 - clock sketches
 #### 2.1 Alarm clock - flipping effect
