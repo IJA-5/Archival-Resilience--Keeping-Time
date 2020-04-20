@@ -848,9 +848,11 @@ by itself)
 
 Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
 
+---
+
 **2) TRANSCRIBING of TIME PERSPECTIVE**
 
-### 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
+***2.1 - Creating a channel for ASMR representing different (cultural) notions of time***
 
 #### >>> website sketch
 ![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
@@ -859,20 +861,19 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 *trial 1*  - sounds of a day: MORNING TIME
 [![MorningTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/morningtime.jpg?raw=true)](https://www.youtube.com/watch?v=QMLKi5Jl0ug)
 
-*trial 2* - sounds of a day 2: LUNCH TIME
+*trial 2* - sounds of a day 2: WORK TIME
+[![WorkTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime.jpg?raw=true)](https://www.youtube.com/watch?v=c3qnNQOGXzY)
 
-*trial 3* - sounds of a day 3: EVENING TIME
 
-these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
+> These could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
-### 2.2 Creating an additional channel which visually represents notions of time (but without audio)
+***2.2 Creating an additional channel which visually represents notions of time (but without audio)***
 #### >>> website sketch
 ![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
 
 #### >>> video trials
 
-*trial 1* - corona time 
-
+*trial 1* - MORNING TIMES
 
 
 <p>&nbsp;</p>
