@@ -1,5 +1,4 @@
-# Archive - Memory - Representation
-# Archival Resilience - Keeping Time
+# Archive - Memory - Representation: Archival Resilience - Keeping Time
 > Time waits for no one. – Folklore.
 
 ## Table of contents
@@ -202,6 +201,18 @@ Creating this main page that will be a digital visualization of the clock
 
 
 ## Experiments
+**1) MATERIALITY OF THE CLOCK**
+
+**What does the clock look like?**
+
+- measurements: roughly 12 cm width x 5 cm height
+- colours:
+- clock: orange and black
+- typography: white
+- text: NVV
+numbers: 3:24
+
+
 
 
 
