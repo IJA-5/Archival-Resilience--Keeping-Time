@@ -4,7 +4,7 @@
 ## Table of contents
 1. [ARTIFACT](#ARTIFACT)
 1. [RESEARCH](#RESEARCH)
-   * What is time?
+   * [whatistime](#whatistime) What is time?
       * Definition
       * facts about time
       * Questions about time
@@ -66,7 +66,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 <p>&nbsp;</p>
 
 # <a name="RESEARCH"></a> 2. RESEARCH
-## What is time?
+## <a name="whatistime"></a>What is time?
 **Definition** 
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
