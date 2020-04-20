@@ -855,6 +855,7 @@ by itself)
 ## articles/readings/books
 ## visual 
 [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+
 [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
 
 <p>&nbsp;</p>
