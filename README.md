@@ -73,6 +73,32 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 ---
 
+**2) "FACTS" ABOUT TIME**
+
+Standart time = globally accepted standart of time measurement >> 
+
+SI system = Seconds are the base unit in this system
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
+
+- **minute** (60 seconds)
+- **hour** (60 minutes, or 3,600 seconds)
+- **day** (24 hours, or 86,400 seconds)
+- **week** (7 days, or 604,800 seconds)
+- **month** (28-31 days, or 2,419,200-2,678.400 seconds)
+- **year** (about 365.25 days, or about 31,557,600 seconds)
+
+For even longer periods, some multiples of years are commonly used, e.g. **decade** (10 years), **century** (100 years), **millennium** (1,000 years), **mega-anuum** (1,000,000 years), etc.
+
+### **System Time**
+
+**System time** on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. **Several variations of **metric time** are used in computing. The widely-used **UNIX time** is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s **FILETIME** uses multiples of 100ns since 1 January 1601. **OpenVMS** uses the number of 100ns since 17 November 1858, and **RISC OS** use the number of centiseconds since 1 January 1900. Most computers use the **Network Time Protocol** (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above).
+
+[Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
+
+---
+<p>&nbsp;</p>
+
 **Questions about time:** 
 
 
@@ -199,18 +225,17 @@ Creating this main page that will be a digital visualization of the clock
 1. Working in Corona time VS Working in regular time 
 
 
+---
 
-## Experiments
+## Experiments for transcoding
 **1) MATERIALITY OF THE CLOCK**
 
 **What does the clock look like?**
 
 - measurements: roughly 12 cm width x 5 cm height
-- colours:
-- clock: orange and black
-- typography: white
+- colours: clock: orange and black, typography: white
 - text: NVV
-numbers: 3:24
+- numbers: 3:24
 
 
 
