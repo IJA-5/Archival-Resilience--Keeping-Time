@@ -867,7 +867,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 > These could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
-### 2.2 Creating an additional channel which visually represents notions of time (but without audio)
+***2.2 Creating an additional channel which visually represents notions of time (but without audio)***
 #### >>> website sketch
 ![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
 
