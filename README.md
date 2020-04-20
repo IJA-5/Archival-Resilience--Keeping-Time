@@ -58,15 +58,15 @@
 **Additional ARCHIVE RESOURCES:**
 
 <details> 
-  <summary> General/main source: </summary>
+  <summary> General/main source of the artifact - IISG </summary>
   
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
 </details
 
 <details> 
-  <summary> NVV Related sources:</summary>
-
+  <summary> NVV Related sources - IISG </summary>
+ 
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#9a63df53b40046acb12b2f176925a6e9
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#f9bf66988c5446689a2f03fffc138650
