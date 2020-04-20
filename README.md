@@ -64,7 +64,6 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 </details
 
-NVV Related sources - IISG
 <details>
   <summary> NVV related sources - IISG </summary>
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
