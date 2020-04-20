@@ -4,18 +4,18 @@
 ## Table of contents
 1. [ARTIFACT](#ARTIFACT)
 1. [RESEARCH](#RESEARCH)
-   * 1) WHAT IS TIME?
+   *  1 WHAT IS TIME?
       * 1.1 Definition
       * 1.2 facts about time
       * 1.3 Questions about time
       * 1.4 how is time defined in culture?
-   * 2) NVV: Nederlands Verbond van Vakverenigingen
+   * 2 NVV: Nederlands Verbond van Vakverenigingen
     * 2.1 Who was the NVV?
     * 2.2 What is a vakvereniging/vakbond?
       * 2.2.1 what was it then?
       * 2.2.2 what is it now?
     * 2.3 Vakverenigingen and the distribution of the work week
-   * 3)Visualizations of time
+   * 3 Visualizations of time
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
    * Ideas/Concepts
    * Experiments
@@ -69,10 +69,12 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4
 
 <details>
  <summary>1)WHAT IS TIME?</summary>
- 
-**1.1Definition** 
+
+<details>
+  <summary> 1.1 definition <summary>
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
+</details>
 
 <details>
  <summary> 1.2 "FACTS" ABOUT TIME</summary>
