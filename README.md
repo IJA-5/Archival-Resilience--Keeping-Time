@@ -289,7 +289,8 @@ Creating this main page that will be a digital visualization of the clock
     * these could be linked by clicking on certain things/buttons on the page
 
 ---
-### Transcoding topics/possibilities
+<details>
+  <summary> Transcoding topics/possibilities </summary>
 
 **1) linear vs cyclical time perception**
 1. LINEAR TIME = past, present future only exists once
@@ -297,11 +298,11 @@ Creating this main page that will be a digital visualization of the clock
 
 <details>
   <summary> SOURCES </summary>
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
+[amazoneaws.com part1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
 
 [Is Time Linear or Cyclical?](https://www.theperspective.com/debates/living/perspective-time-linear-cyclical/)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
+[amazonaws.com part2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
 
 </details>
 
@@ -332,7 +333,7 @@ Question to keep in mind?
 
 **5) analysing chronemics (in netherlands vs greece)**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png)
+[amazoneaws.com](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png)
 
 **6) times in corona period - fast pace vs slow down?**
 
@@ -809,6 +810,7 @@ by itself)
 80. wouldn’t give (one) the time of day to = ignored
 </details>
 
+</details>
 
 ---
 
@@ -830,35 +832,44 @@ by itself)
 ## Experiments for transcoding
 **1) EXPLORING THE MATERIALITY**
 
-**What does the clock look like?**
+#### 1 - What does the clock look like?
 
 - measurements: roughly 12 cm width x 5 cm height
 - colours: clock: orange and black, typography: white
 - text: NVV
 - numbers: 3:24
 
+#### 2 - understandings of the clock
+![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
+![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
-
+Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
 
 
 <p>&nbsp;</p>
 
 # <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
-## definitions
+## DEFINITIONS
 
 ### 1) ALARM CLOCK
 ![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
 ![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
 
-## articles/readings/books
-## visual 
-[shilpagupta art installation kassel]https://shilpagupta.com/i-keep-falling-at-you/
-https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism
+## ARTICLES/READINGS/BOOKS
+
+1. [time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
+
+## VISUAL
+1. [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+
+2. [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
 
 <p>&nbsp;</p>
 
 # <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
-## Martijn
+<details>
+  <summary> MARTIJN </summary>
+
 #### 9/03/2020
 - time, work and social structure
 - different type of calenders
@@ -904,15 +915,11 @@ Hoe word/werd een klok gemaakt?
 
 Hoe kan ik dit object zelf archiveren? 3D model? 
 
-
-
-
-
-<p>&nbsp;</p>
+</details>
 
 ---
-
-## Hannes
+<details>
+  <summary> HANNES </summary>
 
 #### 16/03/2020
 How do you transcode the conceptual vs the more abstract (concept of time)
@@ -931,6 +938,8 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 >> Sound to indicate time (> link this to the clock)
 
 > *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
+
+</details>
 
 ---
 
