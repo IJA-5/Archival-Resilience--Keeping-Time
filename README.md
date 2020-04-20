@@ -1,6 +1,13 @@
 # Archive - Memory - Representation: Archival Resilience - Keeping Time
 > Time waits for no one. – Folklore.
 
+---
+
+### NAME FOR PROJECT:  Intellectual history and future of time?
+→ changes have occurred in the way which humans experience and measure time in accordance with our art, our science and our social infrastructure
+
+---
+
 ## Table of contents
 1. [ARTIFACT](#ARTIFACT)
 1. [RESEARCH](#RESEARCH)
@@ -27,7 +34,7 @@
    * Martijn
    * Hannes
    * Own thoughts
-1. [TO DO'S](#TO-DO'S)
+
 
 
 
@@ -143,9 +150,9 @@ Reference: Lucy
 
 → present
 
-orientated cultures
-
 →  past 
+
+orientated cultures
 
 **pre-industrial cultures**
 
@@ -269,7 +276,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
-#### CONCEPT:
+#### CONCEPT/MAIN IDEA:
 Creating this main page that will be a digital visualization of the clock 
 - create some experiments with coding a clock
 - take the matteriality of the clock into consideration
@@ -278,6 +285,524 @@ Creating this main page that will be a digital visualization of the clock
 
 ---
 
+**1) linear vs cyclical time perception**
+LINEAR TIME = past, present future only exists once
+CYCLICAL TIME = repetitions of periods
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
+
+[Is Time Linear or Cyclical?](https://www.theperspective.com/debates/living/perspective-time-linear-cyclical/)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
+
+**2) time-orientation**
+
+- past
+- present
+- future
+
+Cultures can be orientated/focused mostly on either of these concepts, which affects the way people perceive time within that culture
+
+>> example: when there is a past/present orientation, there is often a more chilled perception whereas in a future orientated culture (like most western cultures) there is a stricter concept of time. 
+
+Questions that I could answer with transcoding:
+
+- What would a western world look like if we would be more past/present orientated?
+- What changes would occur?
+
+**3) Calendars as a social construct**
+
+Calendars are a socially constructed way to measure time; what if I analize the differences between calendars and create my own for the future 
+
+Question to keep in mind?
+
+- what would time look like in a future where more and more things become digitalized (if not our entire lives?) (think about places where no digitalization has happened at al, such as in tribes, cults and islands)
+
+**4) the concept of deja-vu culturally?** 
+
+**5) analysing chronemics (in netherlands vs greece)**
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png)
+
+**6) times in corona period - fast pace vs slow down?**
+
+**7) Creating a toolkit to recreate the clock of the NVV**
+
+→ Ikea manual to recreate the clock, with fun quotes/facts about time and worklife
+
+**8) time and sound / image**  
+
+→ we link certain sounds (like birds chierping, alarm clocks, lunch bells, the news jingle) with certain times in the day
+
+Create a video that combines sounds of time/ videos of time to their period in the day
+
+1) sounds with time
+
+2) videos with time
+
+>>> this could be a series of videos, where maybe I could explore different cultures as well! 
+
+- time in Netherlands
+- time in Greece
+
+**9) time and sayings of time >> creating a game out of this?**
+
+<details>
+  <summary>IDOMS/SAYINGS OF/WITH TIME</summary>
+  1.a devil of a time = said of an ordeal
+  2.a legend in one’s own time = one who gains renown within his or her lifetime (also inspired “a legend in (one’s) own mind,” referring to an egotistical person who believes himself or herself to be more significant than he or she actually is)
+  3. a matter/question of time = said in reference to a state that will soon change
+  4. a rare old time = an enjoyable experience
+
+6.
+
+**a race against time**
+
+: said of trying to accomplish something critical in a short time frame
+
+7.
+
+**a stitch in time**
+
+: the first half of a proverb (ending with “saves nine” and with an obscure origin) that refers to the wisdom of taking precaution
+
+8.
+
+**a whale of a (good) time**
+
+: an especially exciting or fun experience
+
+9.
+
+**ahead of time**
+
+: before the agreed time
+
+10.
+
+**ahead of (one’s) time**
+
+: said of someone or something that has an innovative approach or style or one that the world is not ready for
+
+11.
+
+**all in good time**
+
+: an expression that encourages patience
+
+12.
+
+**all the time in the world**
+
+: an unlimited amount of time
+
+13.
+
+**all the time**
+
+: in addition to referring to habitual or continuous occurrence, can refer to knowing about something throughout a given period
+
+14.
+
+**at a set time**
+
+: at the agreed time
+
+15.
+
+**at all times**
+
+: always
+
+16.
+
+**at no time**
+
+: never
+
+17.
+
+**at the appointed time**
+
+: at the agreed time
+
+18.
+
+**bad time**
+
+: an inconvenient moment or an unfortunate experience
+
+19.
+
+**before (one’s) time**
+
+: said of something that existed or occurred before one was born or when one was too young to recall that thing, or said in reference to someone’s unexpectedly early death
+
+20–21.
+
+**behind its time/the times**
+
+: late, not keeping up, or obsolete
+
+22.
+
+**bide (one’s) time**
+
+: be patient
+
+23.
+
+**big-time operator**
+
+: someone who is or thinks he or she is important or influential
+
+24.
+
+**big-time spender**
+
+: one who spends a lot of money, or said ironically about a frugal person
+
+25.
+
+**borrowed time**
+
+: an uncertain amount of time, at the end of which something will no longer exist or occur
+
+26.
+
+**buy time**
+
+: postpone an event for one’s advantage
+
+27.
+
+**by the time**
+
+: said in reference to a time after something else has occurred
+
+28.
+
+**caught in a time warp**
+
+: unchanged in an antiquated or obsolete way
+
+29.
+
+**crunch time**
+
+: a critical period
+
+30.
+
+**face time**
+
+: time spent in someone else’s company
+
+31.
+
+**for the time being**
+
+: for now
+
+32.
+
+**from time to time**
+
+: occasionally
+
+33.
+
+**do (the) time**
+
+: serve time in jail or prison
+
+34.
+
+**down time**
+
+: rest period
+
+35.
+
+**get the time**
+
+: become available
+
+36.
+
+**give (one) a hard time**
+
+: be critical
+
+37.
+
+**good-time Charlie**
+
+: one who seeks pleasure
+
+38.
+
+**good times**
+
+: pleasant experiences
+
+39.
+
+**hardly have time to breathe**
+
+: said when one is busy
+
+40.
+
+**have a time of it**
+
+: experience difficulty
+
+41.
+
+**having quite a time**
+
+: having a pleasurable experience, or having difficulty
+
+42.
+
+**have time on (one’s side)**
+
+: don’t have to hurry
+
+43.
+
+**I’ll catch you some other time**
+
+: I’ll talk to you later when it’s more convenient for you
+
+44.
+
+**in next to no time**
+
+: almost instantly
+
+45.
+
+**in the fullness of time**
+
+: after enough time passes
+
+46.
+
+**in the right place at the right time**
+
+: in a figurative sense, fortuitously prepared for some eventuality; also, literally, located in a position that is advantageous or fortunate
+
+47.
+
+**it’s about time**
+
+: said to express impatience, or relief that something has finally occurred (usually accompanied by an exclamation point)
+
+48.
+
+**it’s high time**
+
+: it is the appropriate time; one has waited long enough
+
+49.
+
+**keep time**
+
+: maintain the beat in music
+
+50.
+
+**lose no time**
+
+: do something immediately
+
+51.
+
+**make good time**
+
+: proceed quickly or in a reasonable amount of time
+
+52.
+
+**make time for**
+
+: set aside a period of time to accommodate someone or something
+
+53.
+
+**make up for lost time**
+
+: catch up on time wasted or as a result of going slowly or not going at all
+
+54.
+
+**mark time**
+
+: wait
+
+55.
+
+**not able to call (one’s) time (one’s) own**
+
+: too busy
+
+56.
+
+**old-time**
+
+: old-fashioned
+
+57.
+
+**on time**
+
+: punctual
+
+58.
+
+**once upon a time**
+
+: long ago
+
+59.
+
+**out of time**
+
+: said in reference to no longer having time to do something
+
+60.
+
+**pass the time (of day) with**
+
+: chat with
+
+61.
+
+**pressed for time**
+
+: lacking enough time to do something
+
+62.
+
+**run that by me one more time**
+
+: say that again
+
+63.
+
+**sands of time**
+
+: a poetic reference to the passage of time as represented by sand in an hourglass
+
+64.
+
+**the big time**
+
+: said in reference to achieving prominence in some endeavor
+
+65.
+
+**the time has come**
+
+: the occasion is appropriate
+
+66.
+
+**the time of (one’s) life**
+
+: a memorable experience
+
+67.
+
+**time and tide wait for no man**
+
+: the world makes no allowance for one being late
+
+68.
+
+**time bomb**
+
+: something that will inevitably result in a negative consequence
+
+69.
+
+**time flies**
+
+: a reference to the fleeting nature of time
+
+70.
+
+**time is money**
+
+: time is important because using it wisely or unwisely affects one’s ability to earn money
+
+71.
+
+**time on (one’s) hands**
+
+: spare time
+
+72.
+
+**time out**
+
+: in sports, a short period when play ceases; by extension, a break from activity (also used as the announcement of a request for a time out, as is
+
+*time*
+
+by itself)
+
+73.
+
+**(stuck in a) time warp**
+
+: said in reference to observing something that or someone who appears outdated
+
+74.
+
+**time was**
+
+: there was a time when
+
+75.
+
+**time’s a-wastin’**
+
+: time is running out
+
+76.
+
+**time to hit the road**
+
+: time to depart
+
+77.
+
+**time works wonders**
+
+: the passage of time resolves problems
+
+78.
+
+**when the time is ripe**
+
+: when the time is appropriate
+
+79.
+
+**withstand the test of time**
+
+: endure
+
+80. wouldn’t give (one) the time of day to = ignored
+</details>
+
+
+<details>
+  <summary> Extra possible transcoding ideas>
+    
 #### EXPERIMENT IDEAS:
 1. working with the concept of sound and how it represents time
 1. working with the concept of circularity > everyday we have a certain schedule (ex: breakfast-lunch-dinner) but we are never in the same place and same time in space.
@@ -285,6 +810,7 @@ Creating this main page that will be a digital visualization of the clock
 1. working with different cultures and their perception of time
 1. Working in Corona time VS Working in regular time 
 
+</details>
 
 ---
 
@@ -391,13 +917,5 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 
 
 <p>&nbsp;</p>
-
-# <a name="TO-DO'S"></a>6. TO DO's
-
-
-- **volg een aantal tutorials over hoe je een digitale klok kunt maken, deze experimenten leiden je onderzoek naar de digitalisering van je NVV Klok**
-
-- **doe experimenten/transcoding experimenten tijdens je onderzoek > wanneer je tijd linkt aan NVV, cultuur of andere dingen etc.**
-
 
 
