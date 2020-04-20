@@ -849,10 +849,10 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ### 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
-#### website sketch
-![soundofthetimes]()
+#### >>> website sketch
+![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true =100x)
 
-#### audio trials
+#### >>> audio trials
 *trial 1* sounds of a day
 *trial 2* sounds of a day 2
 *trial 3* sounds of a day 3
@@ -860,10 +860,10 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
 ### 2.2 Creating an additional channel which visually represents notions of time (but without audio)
-#### website sketch
+#### >>> website sketch
 ![illustratethetimes]()
 
-#### video trials
+#### >>> video trials
 *trial 1* corona time 
 
 
