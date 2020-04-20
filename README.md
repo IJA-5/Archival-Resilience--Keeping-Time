@@ -57,12 +57,15 @@
 
 **Additional ARCHIVE RESOURCES:**
 
-*General/main source:*
-
+<details> 
+  <summary> General/main source: </summary>
+  
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
+</details
 
-*NVV Related sources:*
+<details> 
+  <summary> NVV Related sources:</summary>
 
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#9a63df53b40046acb12b2f176925a6e9
@@ -72,6 +75,7 @@ https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#91ff98c96fe54
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#40c11dda06ed4cd89fcdaca24e456d38
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4c7d842188ceb46fddcd
 
+</details>
 
 <p>&nbsp;</p>
 
