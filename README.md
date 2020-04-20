@@ -95,6 +95,8 @@ Standart time = globally accepted standart of time measurement >>
 
 SI system = Seconds are the base unit in this system
 
+![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)
+
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
 - **minute** (60 seconds)
@@ -843,9 +845,15 @@ by itself)
 
 # <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
 ## definitions
+
+### 1) ALARM CLOCK
+![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
+![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
+
 ## articles/readings/books
 ## visual 
-
+[shilpagupta art installation kassel]https://shilpagupta.com/i-keep-falling-at-you/
+https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism
 
 <p>&nbsp;</p>
 
