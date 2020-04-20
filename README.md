@@ -848,17 +848,20 @@ by itself)
 <p>&nbsp;</p>
 
 # <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
-## definitions
+## DEFINITIONS
 
 ### 1) ALARM CLOCK
 ![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
 ![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
 
-## articles/readings/books
-## visual 
-[shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+## ARTICLES/READINGS/BOOKS
 
-[Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
+1. [time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
+
+## VISUAL
+1. [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+
+2. [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism}
 
 <p>&nbsp;</p>
 
