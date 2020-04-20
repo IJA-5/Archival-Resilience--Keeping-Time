@@ -841,6 +841,8 @@ by itself)
 
 ***MAIN CONCEPT/IDEA:*** *Website that links all the transcodings together, with main focus a clock like object*
 ### 1 - website 
+#### Sketch 1 - Winamp inspired control board
+![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
 
 ### 2 - clock sketches
 #### 2.1 Alarm clock - flipping effect
