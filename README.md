@@ -10,11 +10,11 @@
       * 1.3 Questions about time
       * 1.4 how is time defined in culture?
    * 2 NVV: Nederlands Verbond van Vakverenigingen
-    * 2.1 Who was the NVV?
-    * 2.2 What is a vakvereniging/vakbond?
-      * 2.2.1 what was it then?
-      * 2.2.2 what is it now?
-    * 2.3 Vakverenigingen and the distribution of the work week
+      * 2.1 Who was the NVV?
+      * 2.2 What is a vakvereniging/vakbond?
+        * 2.2.1 what was it then?
+        * 2.2.2 what is it now?
+      * 2.3 Vakverenigingen and the distribution of the work week
    * 3 Visualizations of time
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
    * Ideas/Concepts
