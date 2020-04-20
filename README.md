@@ -866,7 +866,9 @@ by itself)
 <p>&nbsp;</p>
 
 # <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
-## Martijn
+<details>
+  <summary> MARTIJN </summary>
+
 #### 9/03/2020
 - time, work and social structure
 - different type of calenders
@@ -912,15 +914,11 @@ Hoe word/werd een klok gemaakt?
 
 Hoe kan ik dit object zelf archiveren? 3D model? 
 
-
-
-
-
-<p>&nbsp;</p>
+</details>
 
 ---
-
-## Hannes
+<details>
+  <summary> HANNES </summary>
 
 #### 16/03/2020
 How do you transcode the conceptual vs the more abstract (concept of time)
@@ -939,6 +937,8 @@ How do you transcode the conceptual vs the more abstract (concept of time)
 >> Sound to indicate time (> link this to the clock)
 
 > *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
+
+</details>
 
 ---
 
