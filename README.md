@@ -895,7 +895,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 #### >>> video trials
 
 *trial 1* - MORNING TIMES
-[![worktime_vid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)(https://www.youtube.com/watch?v=VFdph-zGl50)
+[![worktimevid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)(https://www.youtube.com/watch?v=VFdph-zGl50)
 
 <p>&nbsp;</p>
 
