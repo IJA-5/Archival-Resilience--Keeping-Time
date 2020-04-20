@@ -16,7 +16,7 @@
         * 2.2.2 what is it now?
       * 2.3 Vakverenigingen and the distribution of the work week
    * 3 - VISUALIZATIONS OF TIME
-1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING)
+1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * Ideas/Concepts
    * Experiments
 1. [ADDITIONAL SOURCES](#ADDITIONAL-SOURCES)
@@ -267,7 +267,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 ---
 
-# <a name="RESILIENCE-OF-THE-ARTIFACT:-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
+# <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
 #### CONCEPT:
 Creating this main page that will be a digital visualization of the clock 
