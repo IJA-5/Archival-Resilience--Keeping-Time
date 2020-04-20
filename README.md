@@ -853,9 +853,11 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 ![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
 
 #### >>> audio trials
-*trial 1* sounds of a day
-*trial 2* sounds of a day 2
-*trial 3* sounds of a day 3
+*trial 1*  - sounds of a day
+
+*trial 2* - sounds of a day 2
+
+*trial 3* - sounds of a day 3
 
 these could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
@@ -864,7 +866,8 @@ these could later also maybe be other type of representations, like sounds of a 
 ![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
 
 #### >>> video trials
-*trial 1* corona time 
+
+*trial 1* - corona time 
 
 
 
