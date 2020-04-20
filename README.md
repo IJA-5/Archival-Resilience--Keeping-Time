@@ -961,6 +961,42 @@ Hoe word/werd een klok gemaakt?
 
 Hoe kan ik dit object zelf archiveren? 3D model? 
 
+---
+
+## 20/04
+**Skins clock terug linken aan NVV's link to time**
+
+→ 9 to 5 schedule
+
+→ begin time, lunch time, end time
+
+→ 48 hour work week
+
+**Set skins of the website to change at certain times in the day**
+
+⇒ these times should be linked to the narrative of the NVV
+
+**Coding tips:**
+
+1) Making something happen every x amount of time
+
+>>> setInterval() Method 
+
+[Window setInterval() Method](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+
+>>> setTimeout() Method 
+
+[Window setTimeout() Method](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+
+2) making skins change at certain times
+
+1. check time with setInterval() or setTimeout Method → the function is then that time is checked each minute
+2. 1 PM? 
+    - No?  →  no change
+    - Yes?  → change the skin
+
+    [How To Work with Date and Time in JavaScript using Date Objects | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+
 </details>
 
 ---
