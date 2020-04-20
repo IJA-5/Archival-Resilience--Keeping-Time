@@ -47,12 +47,12 @@
 
 **Additional ARCHIVE RESOURCES:**
 
-*General:*
+*General/main source:*
 
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
 
-*NVV Related:*
+*NVV Related sources:*
 
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
 https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#9a63df53b40046acb12b2f176925a6e9
@@ -132,8 +132,6 @@ Reference: Lucy
 ---
 **3) HOW IS TIME DEFINED IN CULTURE?**
 
-[Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
-
 **time-orientated**
 
 → future
@@ -181,6 +179,10 @@ study of the use of time and the way that time is perceived and valued by indivi
 **time and language**
 
 → different concept of time in different languages
+
+SOURCE:
+[Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
+
 ---
 
 <p>&nbsp;</p>
