@@ -374,6 +374,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 ##### Alarm clock - flipping effect
 ![flippingalarm](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarm-clocktrial.jpg?raw=true)
 
+---
 
 ### 2) EXPLORING THE MATERIALITY
 
