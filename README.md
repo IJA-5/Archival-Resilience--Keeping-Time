@@ -33,70 +33,57 @@
       * 2 - TRANSCRIBING of TIME PERSPECTIVE
         * 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
         * 2.2 - Creating an additional channel which visually represents notions of time (but without audio)
-1. [ADDITIONAL SOURCES](#ADDITIONAL-SOURCES)
-   * definitions
-   * articles/readings/books
-   * visual 
-1. [COMMENTS/NOTES](#COMMENTS/NOTES) 
-   * Martijn
-   * Hannes
-   * Notes
+1. [REFLECTION](#REFLECTION)
+1. [OUTCOME](#OUTCOME)
+    * Final Outcome: General Overview
+    * Outcome Links
+1. [CONCLUSION](#CONCLUSION)
+1. [BIBLIOGRAPHY](#BIBLIOGRAPHY)
+
 
 
 
 
 # <a name="ARTIFACT"></a> 1. ARTIFACT
-![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)
-**INFORMATION ARCHIVE** | ALARM CLOCK
------------- | -------------
-*object:* | NVV Elektrische wekker
-*time period:*|	1950-1974
-*physicality:*| plastic
-*subject:*| object
-*location of origin:*| the Netherlands
 
-<p>&nbsp;</p>
-
----
-
-**Additional ARCHIVE RESOURCES:**
+GENERAL INFORMATION ALARM CLOCK NVV.
 
 <details> 
-  <summary> General/main source of the artifact - IISG </summary>
+  <summary> ARTIFACT IISG LINK - IISG </summary>
   
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
 </details
 
-<details>
-  <summary> NVV related sources - IISG </summary>
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#ff94c6683244452a8c64a8450cab7171
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#9a63df53b40046acb12b2f176925a6e9
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#f9bf66988c5446689a2f03fffc138650
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#3d5bc5bfcb684a929c0a0150edf2ef7e
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#91ff98c96fe5473ca7744ff6ae8200cc
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#40c11dda06ed4cd89fcdaca24e456d38
-https://www.notion.so/alarm-CLOCK-14b3d37eb4614587b078d10a83d57f83#26a3ad0714cf4c7d842188ceb46fddcd
-</details>
+**INFORMATION ARCHIVE** | ALARM CLOCK
+------------ | -------------
+*IISG Call Number:* | IISG BG K21/816 
+*physical description:* | NVV electric alarm clock
+*Type:* | Object
+*Medium:* | alarm clock
+*Materials:*|	Plastic
+*location of origin:*| the Netherlands
+*Date:*|	1950-1974
+*![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)*| An orange colored, retro-flip alarm clock, with the NVV logo on it. There is a turning button on the right side. The time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography. 
+
+<p>&nbsp;</p>
+
+---
+
 
 
 <p>&nbsp;</p>
 
 # <a name="RESEARCH"></a> 2. RESEARCH
 
-<details>
- <summary>1)WHAT IS TIME?</summary>
+## 1)WHAT IS TIME?
 
-<details>
-  <summary> 1.1 definition <summary>
+### 1.1 DEFINITION
     
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
-</details>
-
-<details>
- <summary> 1.2 "FACTS" ABOUT TIME</summary>
+### 1.2 "FACTS" ABOUT TIME
  
 Standart time = globally accepted standart of time measurement >> 
 
@@ -106,24 +93,22 @@ SI system = Seconds are the base unit in this system
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
-- **minute** (60 seconds)
-- **hour** (60 minutes, or 3,600 seconds)
-- **day** (24 hours, or 86,400 seconds)
-- **week** (7 days, or 604,800 seconds)
-- **month** (28-31 days, or 2,419,200-2,678.400 seconds)
-- **year** (about 365.25 days, or about 31,557,600 seconds)
+- *minute* (60 seconds)
+- *hour* (60 minutes, or 3,600 seconds)
+- *day* (24 hours, or 86,400 seconds)
+- *week* (7 days, or 604,800 seconds)
+- *month* (28-31 days, or 2,419,200-2,678.400 seconds)
+- *year* (about 365.25 days, or about 31,557,600 seconds)
 
-For even longer periods, some multiples of years are commonly used, e.g. **decade** (10 years), **century** (100 years), **millennium** (1,000 years), **mega-anuum** (1,000,000 years), etc.
+For even longer periods, some multiples of years are commonly used, e.g. *decade* (10 years), *century* (100 years), *millennium* (1,000 years), *mega-anuum* (1,000,000 years), etc.
 
-### **System Time**
+#### *System Time*
 
-**System time** on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. **Several variations of **metric time** are used in computing. The widely-used **UNIX time** is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s **FILETIME** uses multiples of 100ns since 1 January 1601. **OpenVMS** uses the number of 100ns since 17 November 1858, and **RISC OS** use the number of centiseconds since 1 January 1900. Most computers use the **Network Time Protocol** (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above).
+*System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above).
 
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
-</details>
 
-<details>
- <summary>1.3 QUESTIONS ABOUT TIME</summary>
+### 1.3 QUESTIONS ABOUT TIME
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
@@ -151,12 +136,11 @@ For even longer periods, some multiples of years are commonly used, e.g. **deca
 Reference: Lucy
 [![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
-</details>
 
-<details>
-  <summary> 1.4 HOW IS TIME DEFINED IN CULTURE?</summary>
 
-**time-orientated**
+### 1.4 HOW IS TIME DEFINED IN CULTURE?
+
+#### Time-orientated
 
 → future
 
@@ -166,67 +150,61 @@ Reference: Lucy
 
 orientated cultures
 
-**pre-industrial cultures**
+#### Pre-industrial cultures
 
 - pirahã tribe from Amazone
 - hopi tribe Arizona
 - Kapauku tribe-papua new guinea (hunters and gatherers)
 
-**Chronemics**
+#### Chronemics
 
 study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure.
 
-**economics and time**
+#### Economics and time
 
 → wealthy societies tend to move faster
 
-**industrialisation** 
+#### Industrialisation 
 
 → from time surplus TO time affluence TO time famine society
 
-**climate & time**
+#### Climate & time
 
 → hotter countries are more slow pace
 
-**individualistic vs social oriented**
+#### Individualistic vs social oriented
 
 → time-is-money vs enjoying life
 
-**time discipline**
+#### Time discipline
 
 → field in sociology linked to time analysis with regards to culture
 
-**time and religion**
+#### Time and religion
 
 → the rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological 
 
-**time and language**
+#### Time and language
 
 → different concept of time in different languages
 
 SOURCE:
 [Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
 
-</details> 
-</details>
 
 
-<details> 
-  <summary> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN</summary>
-<details>
- <summary>2.1 Who was the NVV?</summary>
+### 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
+#### 2.1 Who was the NVV?
  
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
 Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront.
 https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
-</details>
 
-<details>
- <summary>2.2 What is a vakvereniging/vakbond?</summary>
+#### 2.2 What is a vakvereniging/vakbond?
 
-*2.2.1 what was it then?*
+##### 2.2.1 what was it then?
 
 Een vakbond, vakvereniging, werknemersvereniging, vakorganisatie of syndicaat is een organisatie die de individuele en collectieve belangen van aangesloten werknemers behartigt.
 
@@ -237,20 +215,20 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 
 ---
 
-*2.2.2 what is it now?*
+##### 2.2.2 what is it now?
 
 Vakbonden in Nederland
 
 [https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland](https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland)
 
 
-**OTHER SOURCES:**
+*Other related information:*
 https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
-</details>
 
-<details>
-  <summary>2.3 Vakverenigingen and the distribution of the work week</summary>
+
+
+ #### 2.3 Vakverenigingen and the distribution of the work week
 
 
 - 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
@@ -260,17 +238,6 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 etc.
 
 
-
-**SOURCES:**
-
-https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
-
-https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
-
-https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
-
-</details>
-</details>
 
 
 ### 3)visualizations of time 
@@ -288,7 +255,7 @@ https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
-#### CONCEPT/MAIN IDEA:
+### CONCEPT/MAIN IDEA:
 Creating this main page that will be a digital visualization of the clock 
 - create some experiments with coding a clock
 - take the matteriality of the clock into consideration
@@ -299,7 +266,7 @@ Creating this main page that will be a digital visualization of the clock
 <details>
   <summary> Transcoding topics/possibilities </summary>
 
-**1) linear vs cyclical time perception**
+#### 1) linear vs cyclical time perception
 1. LINEAR TIME = past, present future only exists once
 1. CYCLICAL TIME = repetitions of periods
 
@@ -313,7 +280,7 @@ Creating this main page that will be a digital visualization of the clock
 
 </details>
 
-**2) time-orientation**
+#### 2) time-orientation
 
 - past
 - present
@@ -328,7 +295,7 @@ Questions that I could answer with transcoding:
 - What would a western world look like if we would be more past/present orientated?
 - What changes would occur?
 
-**3) Calendars as a social construct**
+#### 3) Calendars as a social construct
 
 Calendars are a socially constructed way to measure time; what if I analize the differences between calendars and create my own for the future 
 
@@ -336,19 +303,19 @@ Question to keep in mind?
 
 - what would time look like in a future where more and more things become digitalized (if not our entire lives?) (think about places where no digitalization has happened at al, such as in tribes, cults and islands)
 
-**4) the concept of deja-vu culturally?** 
+#### 4) the concept of deja-vu culturally?
 
-**5) analysing chronemics (in netherlands vs greece)**
+#### 5) analysing chronemics (in netherlands vs greece)
 
 [amazoneaws.com](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34d6c4ca-c5b5-47de-9d75-0f3043193643/Screenshot_2020-04-19_at_16.47.32.png)
 
-**6) times in corona period - fast pace vs slow down?**
+#### 6) times in corona period - fast pace vs slow down?
 
-**7) Creating a toolkit to recreate the clock of the NVV**
+#### 7) Creating a toolkit to recreate the clock of the NVV
 
 → Ikea manual to recreate the clock, with fun quotes/facts about time and worklife
 
-**8) time and sound / image**  
+#### 8) time and sound / image  
 
 → we link certain sounds (like birds chierping, alarm clocks, lunch bells, the news jingle) with certain times in the day
 
@@ -363,464 +330,9 @@ Create a video that combines sounds of time/ videos of time to their period in t
 - time in Netherlands
 - time in Greece
 
-**9) time and sayings of time >> creating a game out of this?**
-
-<details>
-  <summary>IDOMS/SAYINGS OF/WITH TIME</summary>
-  1.a devil of a time = said of an ordeal
-  2.a legend in one’s own time = one who gains renown within his or her lifetime (also inspired “a legend in (one’s) own mind,” referring to an egotistical person who believes himself or herself to be more significant than he or she actually is)
-  3. a matter/question of time = said in reference to a state that will soon change
-  4. a rare old time = an enjoyable experience
-
-6.
-
-**a race against time**
-
-: said of trying to accomplish something critical in a short time frame
-
-7.
-
-**a stitch in time**
-
-: the first half of a proverb (ending with “saves nine” and with an obscure origin) that refers to the wisdom of taking precaution
-
-8.
-
-**a whale of a (good) time**
-
-: an especially exciting or fun experience
-
-9.
-
-**ahead of time**
-
-: before the agreed time
-
-10.
-
-**ahead of (one’s) time**
-
-: said of someone or something that has an innovative approach or style or one that the world is not ready for
-
-11.
-
-**all in good time**
-
-: an expression that encourages patience
-
-12.
-
-**all the time in the world**
-
-: an unlimited amount of time
-
-13.
-
-**all the time**
-
-: in addition to referring to habitual or continuous occurrence, can refer to knowing about something throughout a given period
-
-14.
-
-**at a set time**
-
-: at the agreed time
-
-15.
-
-**at all times**
-
-: always
-
-16.
-
-**at no time**
-
-: never
-
-17.
-
-**at the appointed time**
-
-: at the agreed time
-
-18.
-
-**bad time**
-
-: an inconvenient moment or an unfortunate experience
-
-19.
-
-**before (one’s) time**
-
-: said of something that existed or occurred before one was born or when one was too young to recall that thing, or said in reference to someone’s unexpectedly early death
-
-20–21.
-
-**behind its time/the times**
-
-: late, not keeping up, or obsolete
-
-22.
-
-**bide (one’s) time**
-
-: be patient
-
-23.
-
-**big-time operator**
-
-: someone who is or thinks he or she is important or influential
-
-24.
-
-**big-time spender**
-
-: one who spends a lot of money, or said ironically about a frugal person
-
-25.
-
-**borrowed time**
-
-: an uncertain amount of time, at the end of which something will no longer exist or occur
-
-26.
-
-**buy time**
-
-: postpone an event for one’s advantage
-
-27.
-
-**by the time**
-
-: said in reference to a time after something else has occurred
-
-28.
-
-**caught in a time warp**
-
-: unchanged in an antiquated or obsolete way
-
-29.
-
-**crunch time**
-
-: a critical period
-
-30.
-
-**face time**
-
-: time spent in someone else’s company
-
-31.
-
-**for the time being**
-
-: for now
-
-32.
-
-**from time to time**
-
-: occasionally
-
-33.
-
-**do (the) time**
-
-: serve time in jail or prison
-
-34.
-
-**down time**
-
-: rest period
-
-35.
-
-**get the time**
-
-: become available
-
-36.
-
-**give (one) a hard time**
-
-: be critical
-
-37.
-
-**good-time Charlie**
-
-: one who seeks pleasure
-
-38.
-
-**good times**
-
-: pleasant experiences
-
-39.
-
-**hardly have time to breathe**
-
-: said when one is busy
-
-40.
-
-**have a time of it**
-
-: experience difficulty
-
-41.
-
-**having quite a time**
-
-: having a pleasurable experience, or having difficulty
-
-42.
-
-**have time on (one’s side)**
-
-: don’t have to hurry
-
-43.
-
-**I’ll catch you some other time**
-
-: I’ll talk to you later when it’s more convenient for you
-
-44.
-
-**in next to no time**
-
-: almost instantly
-
-45.
-
-**in the fullness of time**
-
-: after enough time passes
-
-46.
-
-**in the right place at the right time**
-
-: in a figurative sense, fortuitously prepared for some eventuality; also, literally, located in a position that is advantageous or fortunate
-
-47.
-
-**it’s about time**
-
-: said to express impatience, or relief that something has finally occurred (usually accompanied by an exclamation point)
-
-48.
-
-**it’s high time**
-
-: it is the appropriate time; one has waited long enough
-
-49.
-
-**keep time**
-
-: maintain the beat in music
-
-50.
-
-**lose no time**
-
-: do something immediately
-
-51.
-
-**make good time**
-
-: proceed quickly or in a reasonable amount of time
-
-52.
-
-**make time for**
-
-: set aside a period of time to accommodate someone or something
-
-53.
-
-**make up for lost time**
-
-: catch up on time wasted or as a result of going slowly or not going at all
-
-54.
-
-**mark time**
-
-: wait
-
-55.
-
-**not able to call (one’s) time (one’s) own**
-
-: too busy
-
-56.
-
-**old-time**
-
-: old-fashioned
-
-57.
-
-**on time**
-
-: punctual
-
-58.
-
-**once upon a time**
-
-: long ago
-
-59.
-
-**out of time**
-
-: said in reference to no longer having time to do something
-
-60.
-
-**pass the time (of day) with**
-
-: chat with
-
-61.
-
-**pressed for time**
-
-: lacking enough time to do something
-
-62.
-
-**run that by me one more time**
-
-: say that again
-
-63.
-
-**sands of time**
-
-: a poetic reference to the passage of time as represented by sand in an hourglass
-
-64.
-
-**the big time**
-
-: said in reference to achieving prominence in some endeavor
-
-65.
-
-**the time has come**
-
-: the occasion is appropriate
-
-66.
-
-**the time of (one’s) life**
-
-: a memorable experience
-
-67.
-
-**time and tide wait for no man**
-
-: the world makes no allowance for one being late
-
-68.
-
-**time bomb**
-
-: something that will inevitably result in a negative consequence
-
-69.
-
-**time flies**
-
-: a reference to the fleeting nature of time
-
-70.
-
-**time is money**
-
-: time is important because using it wisely or unwisely affects one’s ability to earn money
-
-71.
-
-**time on (one’s) hands**
-
-: spare time
-
-72.
-
-**time out**
-
-: in sports, a short period when play ceases; by extension, a break from activity (also used as the announcement of a request for a time out, as is
-
-*time*
-
-by itself)
-
-73.
-
-**(stuck in a) time warp**
-
-: said in reference to observing something that or someone who appears outdated
-
-74.
-
-**time was**
-
-: there was a time when
-
-75.
-
-**time’s a-wastin’**
-
-: time is running out
-
-76.
-
-**time to hit the road**
-
-: time to depart
-
-77.
-
-**time works wonders**
-
-: the passage of time resolves problems
-
-78.
-
-**when the time is ripe**
-
-: when the time is appropriate
-
-79.
-
-**withstand the test of time**
-
-: endure
-
-80. wouldn’t give (one) the time of day to = ignored
-</details>
-
-</details>
+</details> 
 
 ---
-
 
 <details>
   <summary> Extra possible transcoding ideas</summary>
@@ -831,6 +343,7 @@ by itself)
 1. working with the concept of time passing faster and slower > timelapse video's?
 1. working with different cultures and their perception of time
 1. Working in Corona time VS Working in regular time 
+1. Taking time idoms and making a game out of them
 
 </details>
 
@@ -898,7 +411,21 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 <p>&nbsp;</p>
 
-# <a name="ADDITIONAL-SOURCES"></a> 4. ADDITIONAL SOURCES
+# <a name="REFLECTION"></a> 5. REFLECTION
+
+# <a name="OUTCOME"></a> 6. OUTCOME
+## Final Outcome: General Description
+## Outcome Links
+
+# <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
+
+https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
+
+https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
+
+https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
+
+
 ## DEFINITIONS
 
 ### 1) ALARM CLOCK
@@ -916,153 +443,5 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 <p>&nbsp;</p>
 
-# <a name="COMMENTS/NOTES"></a>5. COMMENTS/NOTES
-<details>
-  <summary> MARTIJN </summary>
-
-#### 9/03/2020
-- time, work and social structure
-- different type of calenders
-- prague - central square clock
-- the rodina >> projects about time
-
-[info](https://www.therodina.com/info/)
-
-[Philip Zimbardo: The psychology of time](https://www.ted.com/talks/philip_zimbardo_the_psychology_of_time)
-
-[Will Jenkins: The most precious commodity of all?](https://www.ted.com/talks/will_jenkins_the_most_precious_commodity_of_all)
-
-
----
-
-#### 16/03/2020
-
-**Are there certain mechanisms in place to create a digital representation of this clock?** 
-
-- in je code kun je hebben dat iets update elke seconde > hier kun je iets aan linken visueel (iets dat groeit of krimpt, of beweegt, of update, of cijfers veranderen)
-- hoe ga je de uren, minuten, seconden visualizeren? letterlijk of visueel
-- licht klokken > veranderen op basis van zonlicht
-- structuur van de dag > licht en dag
-- verschillen de skins maken voor de klok > op basis van verschillende perspectieven (verschillende manieren van tijds besef visualizeren)
-
-[skins winamp - Google Search](https://www.google.com/search?q=skins+winamp&tbm=isch&chips=q:skins+winamp,g_1:classic:N4aORogdCPs%3D&hl=en-GB&ved=2ahUKEwiL_4rf_J7oAhURtqQKHW2RDJQQ4lYoAXoECAEQFw&biw=1680&bih=943#imgrc=aPALkrDKEjPAmM)
-
-- de tijd is circulair maar we zijn nooit op hetzelfde punt als gisteren.
-    - loop in de arbeid/ herhaling >>> werk van 9  tot 5 met lunch tussenin elke dag
-    - Doe iets met deze loop
-
-    [https://3.bp.blogspot.com/-JGrYcDcyGn8/WWTfRFZChPI/AAAAAAAAJX0/dZn1Rb-G8_kplovUZlhr6CjQV51kjSbkACLcBGAs/s640/tumblr_mj0vvcqnZx1qdlh1io1_400.gif](https://3.bp.blogspot.com/-JGrYcDcyGn8/WWTfRFZChPI/AAAAAAAAJX0/dZn1Rb-G8_kplovUZlhr6CjQV51kjSbkACLcBGAs/s640/tumblr_mj0vvcqnZx1qdlh1io1_400.gif)
-
-probeer tijd altijd te koppelen aan iets anders > zodat het niet te groot word!
-
-- vakbond
-- cultuur
-- etc.
-
-Textueel onderzoek gedaan > doe daar een klein experiment mee! zodat je niet vast blijft zitten in alleen het onderzoek!
-
-Hoe word/werd een klok gemaakt? 
-
-Hoe kan ik dit object zelf archiveren? 3D model? 
-
----
-
-## 20/04
-**Skins clock terug linken aan NVV's link to time**
-
-→ 9 to 5 schedule
-
-→ begin time, lunch time, end time
-
-→ 48 hour work week
-
-**Set skins of the website to change at certain times in the day**
-
-⇒ these times should be linked to the narrative of the NVV
-
-**Coding tips:**
-
-1) Making something happen every x amount of time
-
->>> setInterval() Method 
-
-[Window setInterval() Method](https://www.w3schools.com/jsref/met_win_setinterval.asp)
-
->>> setTimeout() Method 
-
-[Window setTimeout() Method](https://www.w3schools.com/jsref/met_win_settimeout.asp)
-
-2) making skins change at certain times
-
-1. check time with setInterval() or setTimeout Method → the function is then that time is checked each minute
-2. 1 PM? 
-    - No?  →  no change
-    - Yes?  → change the skin
-
-    [How To Work with Date and Time in JavaScript using Date Objects | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
-
-</details>
-
----
-<details>
-  <summary> HANNES </summary>
-
-#### 16/03/2020
-How do you transcode the conceptual vs the more abstract (concept of time)
-
-- how would you translate the clock into digital visualization - design, visual?
-- come up with a couple of sketches of how this clock could be a digital thing > website?
-- Time is a system (structure to your time, your life >> how does this work?)
-- google calender, photo albums, apple photo's apps
-- apple photo's apps > different ways of catagorizing time. (make a list of these different examples of time catagorization)
-
-**analogue representations of time could be side projects of the main digital representation of the clock**
-
-- check-in check out systems of the work place (the punch card
-- wistle in the factory indicating lunchtime / bell for lunchtime
-
->> Sound to indicate time (> link this to the clock)
-
-> *!!!     the clock has a certain materiality to it, take these into consideration when digitalizing the (color, digital, shape etc)*
-
-
----
-
-#### 20/04/2020
-**Design Translation tips:**
-
-- look more in detail to the clock and ask yourself the questions like:
-    - what typefaces are used?
-    - what is the industrial language of the clock?
-
-    How could you translate these into the website?
-
-- look into modernism ⇒ how is this linked to the clock design?
-    - INSPIRATION: work of experimental jetset
-
-    [experimental jetsets work - Google Search](https://www.google.com/search?q=experimental+jetsets+work&safe=active&rlz=1C5CHFA_enNL878NL878&sxsrf=ALeKk01V6XVkHfeeFDfn2ZN4Z6EotjIoqw:1587393884593&source=lnms&tbm=isch&sa=X&ved=2ahUKEwin6--En_foAhXK_qQKHdRUBuUQ_AUoAXoECBEQAw)
-
-    [Experimental Jetset - Online Archive](https://www.experimentaljetset.nl/)
-
-**OVERALL TIPS:**
-
-- remember the question of resilience! 
-⇒ how can you link it back to the archive? 
-⇒ think about what happens when you replace your end result with the archive object, what happens for its resilience?
-- Ask yourself the following questions:
-⇒  who is this for? 
-⇒ what do they feel when they are looking at it?
-⇒ How does the archive become a focus in your design?
-⇒ What is the position/intention of your digital clock?
-- remember the link with the NVV
-⇒ organizing laybor movements
-⇒ struggle of the workers to get rights for work 
-→→→ see how this links to your website?
-- when designing think about where you can put your research information!
-⇒ creating a timeline/history overview when it comes to the NVV info related to time and work
-⇒ maybe the website could interact with the hours of the day → each hour a new fact of the timeline/history is shared? or else?
-
-
-</details>
 
 
