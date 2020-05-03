@@ -24,15 +24,19 @@
    * 3 - VISUALIZATIONS OF TIME
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * Ideas/Concepts
-      * concept/main idea
+      * concept/main idea: Transcoding Tool
       * transcoding topics & possibilities
-   * Experiments 
-      * 1 - EXPLORING THE MATERIALITY
-        * 1.1 - What does the clock look like?
-        * 1.2 - Understandings of the clock - how does it tick?
-      * 2 - TRANSCRIBING of TIME PERSPECTIVE
-        * 2.1 - Creating a channel for ASMR representing different (cultural) notions of time
-        * 2.2 - Creating an additional channel which visually represents notions of time (but without audio)
+   * TRANSCODING EXPERIMENTS 
+      * 1 - TRANSCODING TOOL: Alarm clock website
+        * 1.1 Website Sketches
+          * 1.1.1 - winamp inspired control board
+        * 1.2 Clock sketches
+      * 2 - EXPLORING THE MATERIALITY
+        * 2.1 - What does the clock look like?
+        * 2.2 - Understandings of the clock - how does it tick?
+      * 3 - TRANSCRIBING of TIME PERSPECTIVE
+        * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
+        * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
 1. [REFLECTION](#REFLECTION)
 1. [OUTCOME](#OUTCOME)
     * Final Outcome: General Overview
@@ -41,7 +45,7 @@
 1. [BIBLIOGRAPHY](#BIBLIOGRAPHY)
 
 
-
+---
 
 
 # <a name="ARTIFACT"></a> 1. ARTIFACT
@@ -55,7 +59,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 </details
 
-*![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)
+![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)
 
 **INFORMATION ARCHIVE** | ALARM CLOCK
 ------------ | -------------
@@ -81,9 +85,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 ### 1.1 DEFINITION
     
-*the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
-[<img scr="IMAGES/definitiontime.png" width="30%"](#)
-
+![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
 ### 1.2 "FACTS" ABOUT TIME
  
@@ -256,13 +258,19 @@ etc.
 ---
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
-## Ideas/Concepts
-### CONCEPT/MAIN IDEA:
-Creating this main page that will be a digital visualization of the clock 
-- create some experiments with coding a clock
-- take the matteriality of the clock into consideration
-- REFERENCE: WINAMP, and their skins > each skin could be a different transcoding of the clock
-    * these could be linked by clicking on certain things/buttons on the page
+## IDEAS/CONCEPTS
+### CONCEPT/MAIN IDEA: TRANSCODING TOOL
+
+**INFORMATION TRANSCODING TOOL** | CLOCK WEBSITE
+------------ | -------------
+ *description:* | Creating this main page that will be a digital visualization of the clock, taking the materiality of the clock into consideration and using the research on time and NVV as visualizations of this digital clock.
+ *aims:* | showing how the NVV (vakbonden in general maybe) have had an impact on how we understand the concept of time. 
+ *methods:* | Building a website that is a visual translation of this clock + additional smaller transcodings 
+ *Source Link:* | link to my transcoding tool >>> coming soon!
+ 
+ 
+*REFERENCE: WINAMP, and their skins > each skin could be a different transcoding of the clock. These could be linked by clicking on certain things/buttons on the page*
+
 
 ---
 <details>
@@ -338,8 +346,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 <details>
   <summary> Extra possible transcoding ideas</summary>
-    
-#### EXPERIMENT IDEAS:
+
 1. working with the concept of sound and how it represents time
 1. working with the concept of circularity > everyday we have a certain schedule (ex: breakfast-lunch-dinner) but we are never in the same place and same time in space.
 1. working with the concept of time passing faster and slower > timelapse video's?
@@ -351,33 +358,34 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-## TRANSCODING
+## TRANSCODING EXPERIMENTS
 
-***MAIN CONCEPT/IDEA:*** *Website that links all the transcodings together, with main focus a clock like object*
-### 1 - website 
-#### Sketch 1 - Winamp inspired control board
+### 1)  TRANSCODING TOOL: Alarm clock website
+#### WEBSITE SKETCHES
+##### 1.1.1 - Winamp inspired control board
 ![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
 ![mainwebsitesketch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website2.png?raw=true)
 
-****>>> need the skin/website to look more like the original clock, but not to exactly copy it! HOW?****
+*>>> need the skin/website to look more like the original clock, but not to exactly copy it! HOW?*
 1. make sure there is more of a visual link to the original clock
 2. ensure a reference to the NVV and the evolution of work and time
 
-### 2 - clock sketches
-#### 2.1 Alarm clock - flipping effect
+#### 1.2 - CLock Sketches
+##### Alarm clock - flipping effect
 ![flippingalarm](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarm-clocktrial.jpg?raw=true)
 
+---
 
-**1) EXPLORING THE MATERIALITY**
+### 2) EXPLORING THE MATERIALITY
 
-#### 1.1 - What does the clock look like?
+#### 2.1 - What does the clock look like?
 
 - measurements: roughly 12 cm width x 5 cm height
 - colours: clock: orange and black, typography: white
 - text: NVV
 - numbers: 3:24
 
-#### 1.2 - Understandings of the clock - how does it tick?
+#### 2.2 - Understandings of the clock - how does it tick?
 ![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
 ![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
 
@@ -385,14 +393,14 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ---
 
-**2) TRANSCRIBING of TIME PERSPECTIVE**
+### 3) TRANSCRIBING of TIME PERSPECTIVE
 
-***2.1 - Creating a channel for ASMR representing different (cultural) notions of time***
+#### 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
-#### >>> website sketch
+##### >>> website sketch
 ![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
 
-#### >>> audio trials
+##### >>> audio trials
 *trial 1*  - sounds of a day: MORNING TIME
 [![MorningTime](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/morningtime.jpg?raw=true)](https://www.youtube.com/watch?v=QMLKi5Jl0ug)
 
@@ -402,11 +410,11 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 > These could later also maybe be other type of representations, like sounds of a workout, or sounds of having fun (and then playing with the concept of time flies when you're having fun) etc. 
 
-***2.2 Creating an additional channel which visually represents notions of time (but without audio)***
-#### >>> website sketch
+#### 3.2 Creating an additional channel which visually represents notions of time (but without audio)
+##### >>> website sketch
 ![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
 
-#### >>> video trials
+##### >>> video trials
 
 *trial 1* - MORNING TIMES
 [![worktimevid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)](https://www.youtube.com/watch?v=VFdph-zGl50)
