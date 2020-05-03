@@ -24,7 +24,7 @@
    * 3 - VISUALIZATIONS OF TIME
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * Ideas/Concepts
-      * concept/main idea
+      * concept/main idea: Transcoding Tool
       * transcoding topics & possibilities
    * Experiments 
       * 1 - EXPLORING THE MATERIALITY
@@ -81,9 +81,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 ### 1.1 DEFINITION
     
-*the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
-[<img scr="IMAGES/definitiontime.png" width="30%"](#)
-
+![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
 ### 1.2 "FACTS" ABOUT TIME
  
@@ -136,7 +134,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 *What is the concept of time?*
 Reference: Lucy
-[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
+[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true) width="50%"](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 
@@ -257,12 +255,18 @@ etc.
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## Ideas/Concepts
-### CONCEPT/MAIN IDEA:
-Creating this main page that will be a digital visualization of the clock 
-- create some experiments with coding a clock
-- take the matteriality of the clock into consideration
-- REFERENCE: WINAMP, and their skins > each skin could be a different transcoding of the clock
-    * these could be linked by clicking on certain things/buttons on the page
+### CONCEPT/MAIN IDEA: TRANSCODING TOOL
+
+**INFORMATION TRANSCODING TOOL** | CLOCK WEBSITE
+------------ | -------------
+ *description:* | Creating this main page that will be a digital visualization of the clock, taking the materiality of the clock into consideration and using the research on time and NVV as visualizations of this digital clock.
+ *aims:* | showing how the NVV (vakbonden in general maybe) have had an impact on how we understand the concept of time. 
+ *methods:* | Building a website that is a visual translation of this clock + additional smaller transcodings 
+ *Source Link:* | link to my transcoding tool >>> coming soon!
+ 
+ 
+*REFERENCE: WINAMP, and their skins > each skin could be a different transcoding of the clock. These could be linked by clicking on certain things/buttons on the page*
+
 
 ---
 <details>
