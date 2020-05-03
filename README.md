@@ -90,7 +90,7 @@ Standart time = globally accepted standart of time measurement >>
 
 SI system = Seconds are the base unit in this system
 
-![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)<width="50%">
+![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true<width="50%">)
 
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
