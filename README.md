@@ -27,14 +27,14 @@
       * concept/main idea: Transcoding Tool
       * transcoding topics & possibilities
    * TRANSCODING EXPERIMENTS 
-      * 1) TRANSCODING TOOL: Alarm clock website
+      * 1 - TRANSCODING TOOL: Alarm clock website
         * 1.1 Website Sketches
           * 1.1.1 - winamp inspired control board
         * 1.2 Clock sketches
-      * 2) EXPLORING THE MATERIALITY
+      * 2 - EXPLORING THE MATERIALITY
         * 2.1 - What does the clock look like?
         * 2.2 - Understandings of the clock - how does it tick?
-      * 3) TRANSCRIBING of TIME PERSPECTIVE
+      * 3 - TRANSCRIBING of TIME PERSPECTIVE
         * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
         * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
 1. [REFLECTION](#REFLECTION)
