@@ -1,5 +1,5 @@
 
-![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverimageplaceholder.jpg?raw=true)
+![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverplaceholder.jpg?raw=true)
 
 # INTERLECTUAL HISTORY AND FUTURE OF TIME
 ***Archive - Memory - Representation: Archival Resilience - Keeping Time***
