@@ -136,7 +136,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 *What is the concept of time?*
 Reference: Lucy
-[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true) width="50%"](https://www.youtube.com/watch?v=FiKcyYEInf8)
+[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 
