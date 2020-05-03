@@ -82,6 +82,8 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 ### 1.1 DEFINITION
     
 *the definite continued progress of existence and events in the past, present, and future regarded as a whole.* 
+[<img scr="IMAGES/definitiontime.png" width="50%"](#)
+
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitiontime.png?raw=true)
 
 ### 1.2 "FACTS" ABOUT TIME
