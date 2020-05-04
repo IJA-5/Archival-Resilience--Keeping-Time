@@ -8,7 +8,7 @@
 ---
 
 ## Table of contents
-1. [ARTIFACT](#ARTIFACT)
+1. [ARTEFACT](#ARTEFACT)
 1. [RESEARCH](#RESEARCH)
    *  1 - WHAT IS TIME?
       * 1.1 Definition
@@ -48,12 +48,12 @@
 ---
 
 
-# <a name="ARTIFACT"></a> 1. ARTIFACT
+# <a name="ARTEFACT"></a> 1. ARTEFACT
 
 GENERAL INFORMATION ALARM CLOCK NVV.
 
 <details> 
-  <summary> ARTIFACT IISG LINK - IISG </summary>
+  <summary> ARTEFACT IISG LINK - IISG </summary>
   
 https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
@@ -71,6 +71,30 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
  *location of origin:*| the Netherlands 
  *Date:*|	1950-1974 
 
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
 <p>&nbsp;</p>
 
