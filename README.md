@@ -173,7 +173,7 @@ REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to 
 
 
 
-### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE?
+### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE? [3](#3)
 
 <table>
    <tr>
@@ -234,7 +234,7 @@ study of the use of time and the way that time is perceived and valued by indivi
   
 </table>
 
-SOURCE: [3](#3)
+
 
 
 ### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
