@@ -50,6 +50,7 @@
 
 # **<a name="ARTEFACT"></a> 1. ARTEFACT**
 
+*This artefact is an orange flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. *
 
 <details> 
   <summary> ARTEFACT IISG LINK - IISG </summary>
@@ -59,44 +60,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 </details
 
 
-<table style="width:100%">
-  <tr>
-    <th>Information Archive: </th>
-    <th>ALARM CLOCK</th> 
-  </tr>
-  <tr>
-    <td>IISG call Number</td>
-    <td>IISG BG K21/816 </td>
-  </tr>
-  <tr>
-    <td>physical description</td>
-    <td>NVV electric alarm clock</td>
-  </tr>
-  <tr>
-    <td>Type</td>
-    <td>Object</td>
-  </tr>
-   <tr>
-    <td>Medium</td>
-    <td>Alarm Clock</td>
-  </tr>
-   <tr>
-    <td>Materials</td>
-    <td>Plastic</td>
-  </tr>
-   <tr>
-    <td>Location of Origin</td>
-    <td>the Netherlands</td>
-  </tr>
-   <tr>
-    <td>Date</td>
-    <td>1950-1974 </td>
-  </tr>
-  <tr>
-    <td> <img src="IMAGES/artifact_clock.jpeg"> </td>
-    <td> An orange colored, retro-flip alarm clock, with the NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
-  </tr>
-</table>
+
 
 
 <p>&nbsp;</p>
