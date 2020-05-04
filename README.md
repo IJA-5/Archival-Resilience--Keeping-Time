@@ -120,6 +120,8 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 Time = the indefinite continued progress of existence and events in the past, present, and future regarded as a whole
 
+---
+
 ### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
  
 Standart time = globally accepted standart of time measurement [1](#1)
@@ -157,6 +159,8 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 *System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above). [2](#2)
 
 
+---
+
 ### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
 
 1. **How can you take the concept of time and transcode it into a visible understandable concept?**
@@ -174,6 +178,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
     - REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to the existence of matter. Without time, we don't exist.
 
 
+---
 
 
 ### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE? [3](#3)
@@ -237,6 +242,7 @@ Study of the use of time and the way that time is perceived and valued by indivi
 
 ---
 
+<p>&nbsp;</p>
 
 ### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
 #### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
@@ -244,6 +250,9 @@ Study of the use of time and the way that time is perceived and valued by indivi
 The Dutch Union of the NVV was a trade union, founded on the 1st of Januari 1906 by the 15 unions. The NVV later (1977) united with the Dutch Catholique Union to become the FNV. 
 
 The NVV was the trade union of the social democratic pilar. The founding of the NVV happened after the railroad strikes of 1903. The first chair, Henri Polak, was simultanuously the chair of the General Dutch Diamond Union. The NVV has been in national socialistic hands from the beginning of World War 2 in 1942. [4](#4)
+
+
+---
 
 
 #### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
@@ -257,7 +266,6 @@ The first "modern" (social-democratic) union in the Netherlands was the Diamond 
 
 In 2001 was 25% of the Dutch employees (between the ages of 15 - 64 years) were members of a union. In 2013 it was 1.8 milion people. 
 
----
 
 ##### <a name="2.2.2-what-is-it-now?"></a> 2.2.2 What is it now?
 
@@ -279,6 +287,7 @@ etc.
 
 ---
 
+<p>&nbsp;</p>
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## <a name="ideas-concepts"></a> IDEAS/CONCEPTS
@@ -371,6 +380,8 @@ Create a video that combines sounds of time/ videos of time to their period in t
 </details>
 
 ---
+
+<p>&nbsp;</p>
 
 ## <a name="transcoding-experiments"></a> TRANSCODING EXPERIMENTS
 
