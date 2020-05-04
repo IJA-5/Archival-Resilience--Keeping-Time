@@ -225,6 +225,7 @@ study of the use of time and the way that time is perceived and valued by indivi
 </table>
 
 
+---
 
 
 ### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
@@ -265,9 +266,9 @@ Explanations about unions in general in the netherlands, and how they functioned
 etc.
 
 
-<p>&nbsp;</p>
 
 ---
+
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
 ## <a name="ideas-concepts"></a> IDEAS/CONCEPTS
