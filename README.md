@@ -130,8 +130,6 @@ SI system = Seconds are the base unit in this system
 ![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)
 [1](#1)
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
-
 - *minute* (60 seconds)
 - *hour* (60 minutes, or 3,600 seconds)
 - *day* (24 hours, or 86,400 seconds)
@@ -463,6 +461,9 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 ## Outcome Links
 
 # <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
+
+<a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
+
 
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
 
