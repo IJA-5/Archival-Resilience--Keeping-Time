@@ -10,7 +10,7 @@
 ## Table of contents
 1. [ARTEFACT](#ARTEFACT)
 1. [RESEARCH](#RESEARCH)
-   *  1 - WHAT IS TIME?
+   *  [What is time?](#1-WHAT-IS-TIME?)
       * 1.1 Definition
       * 1.2 facts about time
       * 1.3 Questions about time
@@ -48,7 +48,7 @@
 ---
 
 
-# <a name="ARTEFACT"></a> 1. ARTEFACT
+# **<a name="ARTEFACT"></a> 1. ARTEFACT**
 
 GENERAL INFORMATION ALARM CLOCK NVV.
 
@@ -107,7 +107,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 # <a name="RESEARCH"></a> 2. RESEARCH
 
-## 1)WHAT IS TIME?
+## **<a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?**
 
 ### 1.1 DEFINITION
     
@@ -164,7 +164,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 *What is the concept of time?*
 Reference: Lucy
-[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true) width="50%"](https://www.youtube.com/watch?v=FiKcyYEInf8)
+[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 
