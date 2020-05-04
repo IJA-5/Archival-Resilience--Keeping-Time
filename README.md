@@ -186,50 +186,50 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
   <tr>
     <td>Time-orientated</td>
     <td>
-→ future, present or past orientated cultures</td>
+→ Future, present or past orientated cultures</td>
   </tr>
   <tr>
     <td>Pre-industrial cultures</td>
     <td>
 
-- pirahã tribe from Amazone
+- Pirahã tribe from Amazone
       
-- hopi tribe Arizona
+- Hopi tribe Arizona
 
 - Kapauku tribe-papua new guinea (hunters and gatherers) </td>
   </tr>
     <tr>
     <td> Chronemics</td>
     <td> 
-study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure. </td>
+Study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure. </td>
   </tr>
     <tr>
     <td> Economics and time </td>
-    <td> wealthy societies tend to move faster</td>
+    <td> Wealthy societies tend to move faster</td>
   </tr>
     <tr>
     <td> Industrialisation </td>
-    <td> from time surplus TO time affluence TO time famine society </td>
+    <td> From time surplus TO time affluence TO time famine society </td>
   </tr>  
   <tr>
     <td>Climate & time </td>
-    <td> hotter countries are more slow pace </td>
+    <td> Hotter countries are more slow pace </td>
   </tr>
     <tr>
     <td> Individualistic vs social oriented </td>
-    <td>time-is-money vs enjoying life </td>
+    <td>Time-is-money vs enjoying life </td>
   </tr>
    <tr>
     <td> Time discipline </td>
-    <td> field in sociology linked to time analysis with regards to culture </td>
+    <td> Field in sociology linked to time analysis with regards to culture </td>
   </tr>
   <tr>
     <td>Time and religion </td>
-    <td> the rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological  </td>
+    <td> The rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological  </td>
   </tr>
   <tr>
     <td>Time and language </td>
-    <td>different concept of time in different languages </td>
+    <td>Different concept of time in different languages </td>
   </tr>
   
 </table>
