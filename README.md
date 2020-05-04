@@ -128,7 +128,10 @@ Standart time = globally accepted standart of time measurement >>
 SI system = Seconds are the base unit in this system
 
 ![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)
-[1](#1)
+
+
+[1](#[1])
+
 
 - *minute* (60 seconds)
 - *hour* (60 minutes, or 3,600 seconds)
@@ -141,9 +144,8 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 #### *System Time*
 
-*System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above).
+*System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above). [2](#[2])
 
-[Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 
 ### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
 
@@ -462,8 +464,13 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 # <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
 
-<a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
+<a name="[1]"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
+<a name="[2]"></a> [2] [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
+
+
+
+## EXTRA SOURCES/REFERENCES
 
 https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
 
@@ -471,21 +478,14 @@ https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-
 
 https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
 
-
-## DEFINITIONS
-
-### 1) ALARM CLOCK
 ![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
 ![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
 
-## ARTICLES/READINGS/BOOKS
+[time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
 
-1. [time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
+[shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
 
-## VISUAL
-1. [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
-
-2. [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism)
+[Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism)
 
 <p>&nbsp;</p>
 
