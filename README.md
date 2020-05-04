@@ -42,6 +42,7 @@
     * Outcome Links
 1. [CONCLUSION](#CONCLUSION)
 1. [BIBLIOGRAPHY](#BIBLIOGRAPHY)
+    * [EXTRA SOURCES/REFERENCES](#extra-sources-references)
 
 
 ---
@@ -249,7 +250,7 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 
 ---
 
-##### <a name="2.2.2-what-is-it-now?> </a> 2.2.2 what is it now?
+##### <a name="2.2.2-what-is-it-now?"></a> 2.2.2 What is it now?
 
 Vakbonden in Nederland
 
@@ -451,7 +452,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 <a name="8"></a> [8] [amazonaws.com part2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
 
 
-## EXTRA SOURCES/REFERENCES
+## <a name="extra-sources-references"></a> EXTRA SOURCES/REFERENCES
 
 [1] [Wikipedia Werkweek](https://nl.wikipedia.org/wiki/Werkweek_(arbeid))
 
