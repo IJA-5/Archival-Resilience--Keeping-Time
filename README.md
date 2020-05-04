@@ -11,30 +11,30 @@
 1. [ARTEFACT](#ARTEFACT)
 1. [RESEARCH](#RESEARCH)
    *  [What is time?](#1-WHAT-IS-TIME?)
-      * 1.1 Definition
-      * 1.2 facts about time
-      * 1.3 Questions about time
-      * 1.4 how is time defined in culture?
-   * 2 - NVV: Nederlands Verbond van Vakverenigingen
-      * 2.1 Who was the NVV?
-      * 2.2 What is a vakvereniging/vakbond?
-        * 2.2.1 what was it then?
-        * 2.2.2 what is it now?
-      * 2.3 Vakverenigingen and the distribution of the work week
-   * 3 - VISUALIZATIONS OF TIME
+      * [1.1 Definition](#1.1-definition)
+      * [1.2 facts about time](#1.2-facts-about-time)
+      * [1.3 Questions about time](#1.3-questions-about-time)
+      * [1.4 how is time defined in culture?](#1.4-how-is-time-defined-in-culture?)
+   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-NVV)
+      * [2.1 Who was the NVV?](#2.1-who-was-the-nvv?)
+      * [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
+        * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
+        * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
+      * [2.3 Vakverenigingen and the distribution of the work week](#2.3-Vakverenigingen-distribution-of-work-week)
+   * [3 - VISUALIZATIONS OF TIME](#3-visualisations-of-time)
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
-   * Ideas/Concepts
+   * [Ideas/Concepts](#ideas-concepts)
       * concept/main idea: Transcoding Tool
       * transcoding topics & possibilities
-   * TRANSCODING EXPERIMENTS 
-      * 1 - TRANSCODING TOOL: Alarm clock website
+   * [TRANSCODING EXPERIMENTS](#transcoding-experiments)
+      * [1 - TRANSCODING TOOL: Alarm clock website](#transcoding-tool)
         * 1.1 Website Sketches
           * 1.1.1 - winamp inspired control board
         * 1.2 Clock sketches
-      * 2 - EXPLORING THE MATERIALITY
+      * [2 - EXPLORING THE MATERIALITY](#exploring-materiality)
         * 2.1 - What does the clock look like?
         * 2.2 - Understandings of the clock - how does it tick?
-      * 3 - TRANSCRIBING of TIME PERSPECTIVE
+      * [3 - TRANSCRIBING of TIME PERSPECTIVE](#transcribing-time-perspective)
         * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
         * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
 1. [REFLECTION](#REFLECTION)
@@ -107,13 +107,13 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 # <a name="RESEARCH"></a> 2. RESEARCH
 
-## **<a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?**
+## <a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?
 
-### 1.1 DEFINITION
+### <a name="1.1-definition"></a> 1.1 DEFINITION
     
 ![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/timedefintion.jpg?raw=true)
 
-### 1.2 "FACTS" ABOUT TIME
+### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
  
 Standart time = globally accepted standart of time measurement >> 
 
@@ -138,7 +138,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 
-### 1.3 QUESTIONS ABOUT TIME
+### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
 
 *How can you take the concept of time and transcode it into a visible understandable concept?*
 
@@ -168,7 +168,7 @@ Reference: Lucy
 
 
 
-### 1.4 HOW IS TIME DEFINED IN CULTURE?
+### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE?
 
 #### Time-orientated
 
@@ -223,8 +223,8 @@ SOURCE:
 
 
 
-### 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
-#### 2.1 Who was the NVV?
+### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
+#### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
  
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
@@ -232,9 +232,9 @@ Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van h
 https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
 
 
-#### 2.2 What is a vakvereniging/vakbond?
+#### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
 
-##### 2.2.1 what was it then?
+##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 what was it then?
 
 Een vakbond, vakvereniging, werknemersvereniging, vakorganisatie of syndicaat is een organisatie die de individuele en collectieve belangen van aangesloten werknemers behartigt.
 
@@ -245,7 +245,7 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 
 ---
 
-##### 2.2.2 what is it now?
+##### <a name="2.2.2-what-is-it-now?></a> 2.2.2 what is it now?
 
 Vakbonden in Nederland
 
@@ -258,7 +258,7 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 
 
 
- #### 2.3 Vakverenigingen and the distribution of the work week
+ #### <a name="2.3-Vakverenigingen-distribution-of-work-week"></a> 2.3 Vakverenigingen and the distribution of the work week
 
 
 - 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
@@ -270,7 +270,7 @@ etc.
 
 
 
-### 3)visualizations of time 
+### <a name="3-visualisations-of-time"></a> 3)visualizations of time 
 
 1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
 
@@ -284,7 +284,7 @@ etc.
 ---
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
-## IDEAS/CONCEPTS
+## <a name="ideas-concepts"></a> IDEAS/CONCEPTS
 ### CONCEPT/MAIN IDEA: TRANSCODING TOOL
 
 **INFORMATION TRANSCODING TOOL** | CLOCK WEBSITE
@@ -384,9 +384,9 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-## TRANSCODING EXPERIMENTS
+## <a name="transcoding-experiments"></a> TRANSCODING EXPERIMENTS
 
-### 1)  TRANSCODING TOOL: Alarm clock website
+### <a name="transcoding-tool"></a> 1)  TRANSCODING TOOL: Alarm clock website
 #### WEBSITE SKETCHES
 ##### 1.1.1 - Winamp inspired control board
 ![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
@@ -402,7 +402,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-### 2) EXPLORING THE MATERIALITY
+### <a name="exploring-materiality"></a> 2) EXPLORING THE MATERIALITY
 
 #### 2.1 - What does the clock look like?
 
@@ -419,7 +419,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ---
 
-### 3) TRANSCRIBING of TIME PERSPECTIVE
+### <a name="transcribing-time-perspective"></a> 3) TRANSCRIBING of TIME PERSPECTIVE
 
 #### 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
