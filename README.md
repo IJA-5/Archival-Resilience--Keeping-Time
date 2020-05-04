@@ -100,7 +100,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
   </tr>
   <tr>
     <td> <img src="IMAGES/artifact_clock.jpeg"> </td>
-    <td> An orange colored, retro-flip alarm clock, with the NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
+    <td> An orange colored, retro-flip alarm clock, with an NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
   </tr>
 </table>
 
@@ -118,8 +118,8 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 ## <a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?
 
 ### <a name="1.1-definition"></a> 1.1 DEFINITION
-    
-![Definition of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/timedefintion.jpg?raw=true)
+
+Time = the indefinite continued progress of existence and events in the past, present, and future regarded as a whole
 
 ### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
  
@@ -146,8 +146,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 ### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
 
-*How can you take the concept of time and transcode it into a visible understandable concept?*
-
+1. *How can you take the concept of time and transcode it into a visible understandable concept?*
 
 - alarm clock
 - clock
@@ -157,74 +156,82 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 - sun
 
 
-*what is the cultural implication of time?*
+2. *what is the cultural implication of time?*
 
 - think about a western country and a country like cuba.
 
 
 
-*What is time when you’re deaf?*
+3. *What is time when you’re deaf?*
 
 - Hand signs for time
 
 
-*What is the concept of time?*
+4. *What is the concept of time?*
 
 REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to the existence of matter. Without time, we don't exist.
-
-[![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
 
 ### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE?
 
-#### Time-orientated
-
+<table>
+   <tr>
+    <th>Influences</th>
+    <th>How are these prevalent?</th>
+  </tr>
+  <tr>
+    <td>Time-orientated</td>
+    <td>
 → future
 
 → present
 
 →  past 
 
-orientated cultures
-
-#### Pre-industrial cultures
-
-- pirahã tribe from Amazone
+orientated cultures</td>
+  </tr>
+  <tr>
+    <td>Pre-industrial cultures</td>
+    <td>- pirahã tribe from Amazone
 - hopi tribe Arizona
-- Kapauku tribe-papua new guinea (hunters and gatherers)
-
-#### Chronemics
-
-study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure.
-
-#### Economics and time
-
-→ wealthy societies tend to move faster
-
-#### Industrialisation 
-
-→ from time surplus TO time affluence TO time famine society
-
-#### Climate & time
-
-→ hotter countries are more slow pace
-
-#### Individualistic vs social oriented
-
-→ time-is-money vs enjoying life
-
-#### Time discipline
-
-→ field in sociology linked to time analysis with regards to culture
-
-#### Time and religion
-
-→ the rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological 
-
-#### Time and language
-
-→ different concept of time in different languages
+- Kapauku tribe-papua new guinea (hunters and gatherers) </td>
+  </tr>
+    <tr>
+    <td> Chronemics</td>
+    <td> 
+study of the use of time and the way that time is perceived and valued by individuals and cultures, particularly as regards non-verbal communication. These time perceptions include things like punctuality, willingness to wait, approaches to face-to-face interactions, and reactions to time pressure. </td>
+  </tr>
+    <tr>
+    <td> Economics and time </td>
+    <td> wealthy societies tend to move faster</td>
+  </tr>
+    <tr>
+    <td> Industrialisation </td>
+    <td> from time surplus TO time affluence TO time famine society </td>
+  </tr>  
+  <tr>
+    <td>Climate & time </td>
+    <td> hotter countries are more slow pace </td>
+  </tr>
+    <tr>
+    <td> Individualistic vs social oriented </td>
+    <td>time-is-money vs enjoying life </td>
+  </tr>
+   <tr>
+    <td> Time discipline </td>
+    <td> field in sociology linked to time analysis with regards to culture </td>
+  </tr>
+  <tr>
+    <td>Time and religion </td>
+    <td> the rule of st. Benedict introduced canonical hours > this implemented new factors into time analysis other then biological or astrological  </td>
+  </tr>
+  <tr>
+    <td>Time and language </td>
+    <td>different concept of time in different languages </td>
+  </tr>
+  
+</table>
 
 SOURCE: [3](#3)
 
