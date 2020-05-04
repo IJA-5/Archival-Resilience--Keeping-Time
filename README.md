@@ -122,13 +122,13 @@ Time = the indefinite continued progress of existence and events in the past, pr
 
 ### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
  
-Standart time = globally accepted standart of time measurement >> 
+Standart time = globally accepted standart of time measurement [1](#1)
 
 
 <table> 
   <tr>
     <th> SI system </th>
-    <th> (seconds = base unit [1](#1) ) </th>
+    <th> (seconds = base unit ) </th>
   </tr>
   <tr>
     <td> <img src="IMAGES/workingsoftime.png" height="50%" </td>
