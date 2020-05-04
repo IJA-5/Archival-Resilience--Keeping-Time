@@ -131,7 +131,9 @@ SI system = Seconds are the base unit in this system [1](#1)
 <table> 
   <tr>
     <td> <img src="IMAGES/workingsoftime.png" height="50%" </td>
-    <td> - *minute* (60 seconds)
+    <td> 
+- *minute* (60 seconds)
+      
 - *hour* (60 minutes, or 3,600 seconds)
       
 - *day* (24 hours, or 86,400 seconds)
@@ -141,17 +143,12 @@ SI system = Seconds are the base unit in this system [1](#1)
 - *month* (28-31 days, or 2,419,200-2,678.400 seconds)
 
 - *year* (about 365.25 days, or about 31,557,600 seconds) </td>
-   </td>
+   </tr>
  </table>
  
-- *minute* (60 seconds)
-- *hour* (60 minutes, or 3,600 seconds)
-- *day* (24 hours, or 86,400 seconds)
-- *week* (7 days, or 604,800 seconds)
-- *month* (28-31 days, or 2,419,200-2,678.400 seconds)
-- *year* (about 365.25 days, or about 31,557,600 seconds)
 
 For even longer periods, some multiples of years are commonly used, e.g. *decade* (10 years), *century* (100 years), *millennium* (1,000 years), *mega-anuum* (1,000,000 years), etc.
+
 
 #### *System Time*
 
