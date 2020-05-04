@@ -188,13 +188,14 @@ REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to 
 → present
 
 →  past 
-
 orientated cultures</td>
   </tr>
   <tr>
     <td>Pre-industrial cultures</td>
     <td>- pirahã tribe from Amazone
+      
 - hopi tribe Arizona
+
 - Kapauku tribe-papua new guinea (hunters and gatherers) </td>
   </tr>
     <tr>
@@ -239,21 +240,21 @@ SOURCE: [3](#3)
 ### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
 #### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
  
-Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
+The Dutch Union of the NVV was a trade union, founded on the 1st of Januari 1906 by the 15 unions. The NVV later (1977) united with the Dutch Catholique Union to become the FNV. 
 
-Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront. [4](#4)
+The NVV was the trade union of the social democratic pilar. The founding of the NVV happened after the railroad strikes of 1903. The first chair, Henri Polak, was simultanuously the chair of the General Dutch Diamond Union. The NVV has been in national socialistic hands from the beginning of World War 2 in 1942. [4](#4)
 
 
 #### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
 
 ##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 what was it then?
 
-Een vakbond, vakvereniging, werknemersvereniging, vakorganisatie of syndicaat is een organisatie die de individuele en collectieve belangen van aangesloten werknemers behartigt.
+A Union is an organization that takes into consideration and represents the individual and collective intersts of employees. 
+The first national union in the netherlands was the General Dutch Employee Union in 1871. The political influences within these national unions resulted into the founding of independent unions, such as the NAS in 1893. 
 
+The first "modern" (social-democratic) union in the Netherlands was the Diamond Union in 1894. On the first of januari 1906 the NVV was founded out of 15 other unions. 
 
-De eerste vakverenigingen in Nederland waren vooral verenigingen voor onderlinge hulp [1] De eerste landelijke vakcentrale was de Algemene Nederlandse Werkliedenvereniging (1871), de eerste landelijke vakbonden waren kort daarvoor opgericht. De politieke invloeden in de ANWV en van de Sociaal-Democratische Bond (SDB) op vakbonden leidden tot het oprichten van een onafhankelijke vakcentrale, het Nederlands Arbeidssecretariaat (NAS) in 1893. Als eerste 'moderne' (sociaal-democratische) vakbond in Nederland wordt wel beschouwd de Algemene Nederlandse Diamantbewerkersbond uit 1894. Op 1 januari 1906 werd het Nederlands Verbond van Vakverenigingen (NVV) opgericht, waarbij vijftien vakbonden waren aangesloten. In 1977 ging het NVV op in de Federatie Nederlandse Vakbeweging (FNV).
-
-In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aangesloten bij een vakbond ("georganiseerd"). De syndicalisatiegraad in België bedraagt 54% (in de leeftijd 15-64 jaar), wat een van de hoogste percentages ter wereld is. Alleen Scandinavische landen scoren systematisch hoger. In maart 2013 waren in Nederland bijna 1,8 miljoen mensen lid van een vakbond.
+In 2001 was 25% of the Dutch employees (between the ages of 15 - 64 years) were members of a union. In 2013 it was 1.8 milion people. 
 
 ---
 
@@ -264,11 +265,10 @@ Vakbonden in Nederland
 Explanations about unions in general in the netherlands, and how they functioned can be found in the following source: [5](#5)
 
 
-
  #### <a name="2.3-Vakverenigingen-distribution-of-work-week"></a> 2.3 Vakverenigingen and the distribution of the work week
 
 
-- 30 urige workweek (Now being implemented in some areas of the world) VS 48 hour workweek
+- 30 hour workweek (Now being implemented in some areas of the world) VS 48 hour workweek
 - the weekend
 - 9 to 5
 - lunch hour
@@ -482,7 +482,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 [11] [Visualizations of time - data series](https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/)
 
-[12] [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
+[12] [Visualizations of time youtube video](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
 
 
 <p>&nbsp;</p>
