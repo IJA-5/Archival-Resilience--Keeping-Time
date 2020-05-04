@@ -75,24 +75,40 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Information Archive: </th>
+    <th>ALARM CLOCK</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>IISG call Number</td>
+    <td>IISG BG K21/816 </td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>physical description</td>
+    <td>NVV electric alarm clock</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Type</td>
+    <td>Object</td>
+  </tr>
+   <tr>
+    <td>Medium</td>
+    <td>Alarm Clock</td>
+  </tr>
+   <tr>
+    <td>Materials</td>
+    <td>Plastic</td>
+  </tr>
+   <tr>
+    <td>Location of Origin</td>
+    <td>the Netherlands</td>
+  </tr>
+   <tr>
+    <td>Date</td>
+    <td>1950-1974 </td>
+  </tr>
+  <tr>
+    <td> ![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true) </td>
+    <td> An orange colored, retro-flip alarm clock, with the NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
   </tr>
 </table>
 
