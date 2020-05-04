@@ -146,7 +146,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 ### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
 
-1. *How can you take the concept of time and transcode it into a visible understandable concept?*
+1. **How can you take the concept of time and transcode it into a visible understandable concept?**
 
 - alarm clock
 - clock
@@ -156,18 +156,18 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 - sun
 
 
-2. *what is the cultural implication of time?*
+2. **what is the cultural implication of time?**
 
 - think about a western country and a country like cuba.
 
 
 
-3. *What is time when you’re deaf?*
+3. **What is time when you’re deaf?**
 
 - Hand signs for time
 
 
-4. *What is the concept of time?*
+4. **What is the concept of time?**
 
 REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to the existence of matter. Without time, we don't exist.
 
