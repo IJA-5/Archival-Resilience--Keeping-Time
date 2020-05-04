@@ -132,7 +132,8 @@ SI system = Seconds are the base unit in this system [1](#1)
   <tr>
     <td> <img src="IMAGES/workingsoftime.png" height="50%" </td>
     <td> 
-- *minute* (60 seconds)
+      
+ - *minute* (60 seconds)
       
 - *hour* (60 minutes, or 3,600 seconds)
       
