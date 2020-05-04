@@ -50,7 +50,7 @@
 
 # **<a name="ARTEFACT"></a> 1. ARTEFACT**
 
-GENERAL INFORMATION ALARM CLOCK NVV.
+This artefact is an orange flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. 
 
 <details> 
   <summary> ARTEFACT IISG LINK - IISG </summary>
