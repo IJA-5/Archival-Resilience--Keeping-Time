@@ -21,7 +21,6 @@
         * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
         * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
       * [2.3 Vakverenigingen and the distribution of the work week](#2.3-Vakverenigingen-distribution-of-work-week)
-   * [3 - VISUALIZATIONS OF TIME](#3-visualisations-of-time)
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * [Ideas/Concepts](#ideas-concepts)
       * concept/main idea: Transcoding Tool
@@ -125,12 +124,9 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
  
 Standart time = globally accepted standart of time measurement >> 
 
-SI system = Seconds are the base unit in this system
+SI system = Seconds are the base unit in this system [1](#1)
 
 ![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)
-
-
-[1](#[1])
 
 
 - *minute* (60 seconds)
@@ -144,7 +140,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 #### *System Time*
 
-*System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above). [2](#[2])
+*System time* on a computer is measured by a system clock, which is typically implemented as a simple count of the number of “ticks” that have transpired since some arbitrary starting date, called the epoch. *Several variations of *metric time* are used in computing. The widely-used *UNIX time* is defined as the number of seconds elapsed since 00:00:00 UTC on 1 January 1970. Microsoft’s *FILETIME* uses multiples of 100ns since 1 January 1601. *OpenVMS* uses the number of 100ns since 17 November 1858, and *RISC OS* use the number of centiseconds since 1 January 1900. Most computers use the *Network Time Protocol* (NTP), one of the oldest Internet protocols used to coordinate computer clocks to Coordinated Universal Time (see above). [2](#2)
 
 
 ### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
@@ -172,7 +168,9 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 
 *What is the concept of time?*
-Reference: Lucy
+
+REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to the existence of matter. Without time, we don't exist.
+
 [![LUCY reference](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/lucy.jpg?raw=true)](https://www.youtube.com/watch?v=FiKcyYEInf8)
 
 
@@ -227,9 +225,7 @@ study of the use of time and the way that time is perceived and valued by indivi
 
 → different concept of time in different languages
 
-SOURCE:
-[Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
-
+SOURCE: [3](#3)
 
 
 ### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
@@ -237,8 +233,7 @@ SOURCE:
  
 Het Nederlands Verbond van Vakverenigingen (NVV) was een vakcentrale, opgericht op 1 januari 1906 door vijftien vakbonden. Het NVV ging in 1977 samen met het Nederlands Katholiek Vakverbond op in de FNV.
 
-Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront.
-https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen
+Het NVV was de vakcentrale van de sociaaldemocratische zuil. De oprichting van het NVV was voortgekomen uit de spoorwegstakingen van 1903. Eerste voorzitter, Henri Polak, was tevens voorzitter van de Algemene Nederlandse Diamantbewerkersbond. Vanaf het begin van de Tweede Wereldoorlog tot 1942 was het NVV in nationaalsocialistische handen, waarna ze de centrale ophieven. In 1942 werden de bezittingen en vermogens overgenomen door de nieuw opgezette vakbeweging Nederlands Arbeidsfront, die naar Duits model was opgezet. NSB'er Henk Woudenberg, die van 1940 tot 1942 voorzitter was van het NVV, ging leiding geven aan het Nederlands Arbeidsfront. [4](#4)
 
 
 #### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
@@ -258,12 +253,7 @@ In 2001 was 25% van de Nederlandse werknemers (in de leeftijd 15-64 jaar) nog aa
 
 Vakbonden in Nederland
 
-[https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland](https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland)
-
-
-*Other related information:*
-https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
-
+Explanations about unions in general in the netherlands, and how they functioned can be found in the following source: [5](#5)
 
 
 
@@ -275,17 +265,6 @@ https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/
 - 9 to 5
 - lunch hour
 etc.
-
-
-
-
-### <a name="3-visualisations-of-time"></a> 3)visualizations of time 
-
-1. https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space
-
-2. https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/
-[![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
-
 
 
 <p>&nbsp;</p>
@@ -311,19 +290,10 @@ etc.
 <details>
   <summary> Transcoding topics/possibilities </summary>
 
-#### 1) linear vs cyclical time perception
+#### 1) linear vs cyclical time perception [6](#6), [7](#7), [8](#8).
 1. LINEAR TIME = past, present future only exists once
 1. CYCLICAL TIME = repetitions of periods
 
-<details>
-  <summary> SOURCES </summary>
-[amazoneaws.com part1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
-
-[Is Time Linear or Cyclical?](https://www.theperspective.com/debates/living/perspective-time-linear-cyclical/)
-
-[amazonaws.com part2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
-
-</details>
 
 #### 2) time-orientation
 
@@ -464,28 +434,48 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 # <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
 
-<a name="[1]"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
+<a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
-<a name="[2]"></a> [2] [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
+<a name="2"></a> [2] [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 
+<a name="3"></a> [3] [Time in Different Cultures](http://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/)
+
+<a name="4"></a> [4] [Wikipedia nvv](https://nl.wikipedia.org/wiki/Nederlands_Verbond_van_Vakverenigingen)
+
+<a name="5"></a> [5] [https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland](https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland)
+
+<a name="6"></a> [6] [amazoneaws.com part1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2772ec6b-4cab-4459-9bf8-224dd776be1d/Untitled.png)
+
+<a name="7"></a> [7] [Is Time Linear or Cyclical?](https://www.theperspective.com/debates/living/perspective-time-linear-cyclical/)
+
+<a name="8"></a> [8] [amazonaws.com part2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2239e4fa-a096-45ad-9959-807f57f41b7b/Screenshot_2020-04-19_at_12.56.35.png)
 
 
 ## EXTRA SOURCES/REFERENCES
 
-https://nl.wikipedia.org/wiki/Werkweek_(arbeid)
+[1] [Wikipedia Werkweek](https://nl.wikipedia.org/wiki/Werkweek_(arbeid))
 
-https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering
+[2] [History of workhour reduction](https://www.denktankminerva.be/analyse/2018/4/30/een-kleine-geschiedenis-van-de-arbeidsduurvermindering)
 
-https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8
+[3] [Reduction of the workhours](https://www.google.com/search?q=vakverenigingen+en+de+verdeling+van+de+werkweek&rlz=1C5CHFA_enNL878NL878&oq=vakverenigingen+en+de+verdeling+van+de+werkweek&aqs=chrome..69i57.16421j0j4&sourceid=chrome&ie=UTF-8)
 
-![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
-![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
+[4] ![definition of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/definitionalarmclock.png?raw=true)
+[5] ![function of alarmclock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarmclockfunction.png?raw=true)
 
-[time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
+[6] [time as a social construct](https://www.everydaysociologyblog.com/2016/11/the-social-construction-of-time.html) 
 
-[shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
+[7] [shilpagupta art installation kassel](https://shilpagupta.com/i-keep-falling-at-you/)
 
-[Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism)
+[8] [Workings of a flip clock](https://www.flipclockfans.com/forum/articles/176-how-does-a-flip-clock-work-a-look-at-a-flip-clock-mechanism)
+
+[9] [opstap naar moderne vakbeweging](https://www.vakbondshistorie.nl/dossiers/de-opstap-naar-de-moderne-vakbeweging/) 
+
+[10] [Visual representations of time](https://en.wikibooks.org/wiki/Visual_Rhetoric/Visual_Representations_of_Time_and_Space)
+
+[11] [Visualizations of time - data series](https://humansofdata.atlan.com/2016/11/visualizing-time-series-data/)
+
+[12] [![Visualizations of time youtube video](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/visualizationsoftime.jpg?raw=true)](https://www.youtube.com/watch?time_continue=56&v=gtV7P620FVw&feature=emb_logo)
+
 
 <p>&nbsp;</p>
 
