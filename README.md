@@ -186,16 +186,13 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
   <tr>
     <td>Time-orientated</td>
     <td>
-→ future
-
-→ present
-
-→  past 
-orientated cultures</td>
+→ future, present or past orientated cultures</td>
   </tr>
   <tr>
     <td>Pre-industrial cultures</td>
-    <td>- pirahã tribe from Amazone
+    <td>
+
+- pirahã tribe from Amazone
       
 - hopi tribe Arizona
 
