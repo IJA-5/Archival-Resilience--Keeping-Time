@@ -20,7 +20,6 @@
       * [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
         * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
         * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
-      * [2.3 Vakverenigingen and the distribution of the work week](#2.3-Vakverenigingen-distribution-of-work-week)
 1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
    * [Ideas/Concepts](#ideas-concepts)
       * concept/main idea: Transcoding Tool
