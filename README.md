@@ -156,9 +156,13 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 - sun
 
 
+
+
 2. **what is the cultural implication of time?**
 
 - think about a western country and a country like cuba.
+
+
 
 
 
@@ -167,9 +171,13 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 - Hand signs for time
 
 
+
+
 4. **What is the concept of time?**
 
 REFERENCE MOVIE LUCY : Time is the only true unit of measure. It gives proof to the existence of matter. Without time, we don't exist.
+
+
 
 
 
