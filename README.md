@@ -59,9 +59,6 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 </details
 
-![Image of the NVV clock](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/artifact_clock.jpeg?raw=true)
-
-
 <table style="width:100%">
   <tr>
     <th>Information Archive: </th>
@@ -96,7 +93,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
     <td>1950-1974 </td>
   </tr>
   <tr>
-    <td> [<img src="IMAGES/artifact_clock.jpeg">] </td>
+    <td> <img src="IMAGES/artifact_clock.jpeg"> </td>
     <td> An orange colored, retro-flip alarm clock, with the NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
   </tr>
 </table>
