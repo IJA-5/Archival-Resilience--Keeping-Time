@@ -124,11 +124,12 @@ Time = the indefinite continued progress of existence and events in the past, pr
  
 Standart time = globally accepted standart of time measurement >> 
 
-SI system = Seconds are the base unit in this system [1](#1)
-
-
 
 <table> 
+  <tr>
+    <th> SI system </th>
+    <th> (seconds = base unit [1](#1) ) </th>
+  </tr>
   <tr>
     <td> <img src="IMAGES/workingsoftime.png" height="50%" </td>
     <td> 
