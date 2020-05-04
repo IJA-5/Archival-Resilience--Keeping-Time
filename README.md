@@ -67,7 +67,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 <table style="width:100%">
   <tr>
-    <th>NVV: </th>
+    <th>NVV </th>
     <th>ALARM CLOCK</th> 
   </tr>
   <tr>
