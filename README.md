@@ -126,9 +126,20 @@ Standart time = globally accepted standart of time measurement >>
 
 SI system = Seconds are the base unit in this system [1](#1)
 
-![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true)
 
 
+<table> 
+  <tr>
+    <td> ![workings of time](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/workingsoftime.png?raw=true) </td>
+    <td> - *minute* (60 seconds)
+- *hour* (60 minutes, or 3,600 seconds)
+- *day* (24 hours, or 86,400 seconds)
+- *week* (7 days, or 604,800 seconds)
+- *month* (28-31 days, or 2,419,200-2,678.400 seconds)
+- *year* (about 365.25 days, or about 31,557,600 seconds) </td>
+   </td>
+ </table>
+ 
 - *minute* (60 seconds)
 - *hour* (60 minutes, or 3,600 seconds)
 - *day* (24 hours, or 86,400 seconds)
