@@ -133,7 +133,7 @@ Standart time = globally accepted standart of time measurement [1](#1)
     <th> (seconds = base unit ) </th>
   </tr>
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/workingsoftime.png"><width="50%"></td>
+    <td> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/workingsoftime.png" width="50%"></td>
     <td> 
       
  - *minute* (60 seconds)
