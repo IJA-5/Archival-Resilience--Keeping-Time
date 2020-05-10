@@ -50,7 +50,7 @@
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
-*This artefact is an orange flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts.*
+*This artefact is an orange colored, flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. All that is certain, that it was to keep the time of the NVV workers*
 
 <details> 
   <summary> ARTEFACT IISG LINK - IISG </summary>
@@ -133,7 +133,7 @@ Standart time = globally accepted standart of time measurement [1](#1)
     <th> (seconds = base unit ) </th>
   </tr>
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/workingsoftime.png"> </td>
+    <td> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/workingsoftime.png"> <height="50%"> </td>
     <td> 
       
  - *minute* (60 seconds)
