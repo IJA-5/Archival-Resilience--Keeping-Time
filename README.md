@@ -389,9 +389,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 #### WEBSITE SKETCHES
 ##### 1.1.1 - Winamp inspired control board
 <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website.jpg" width="50%">
-<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website2.jpg" width="50%">
-![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
-![mainwebsitesketch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website2.png?raw=true)
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website2.png" width="50%">
 
 *>>> need the skin/website to look more like the original clock, but not to exactly copy it! HOW?*
 1. make sure there is more of a visual link to the original clock
