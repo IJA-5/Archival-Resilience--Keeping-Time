@@ -133,7 +133,7 @@ Standart time = globally accepted standart of time measurement [1](#1)
     <th> (seconds = base unit ) </th>
   </tr>
   <tr>
-    <td> ![workingsoftime](http://www.exactlywhatistime.com/wp-content/uploads/2014/02/time_units.jpg) </td>
+    <td> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/workingsoftime.png"> </td>
     <td> 
       
  - *minute* (60 seconds)
