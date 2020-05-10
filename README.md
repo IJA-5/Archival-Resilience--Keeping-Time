@@ -397,7 +397,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 #### 1.2 - CLock Sketches
 ##### Alarm clock - flipping effect
-![flippingalarm](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/alarm-clocktrial.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/alarm-clocktrial.jpg" width="50%">
 
 ---
 
@@ -411,8 +411,9 @@ Create a video that combines sounds of time/ videos of time to their period in t
 - numbers: 3:24
 
 #### 2.2 - Understandings of the clock - how does it tick?
-![materialresearch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materialityclock-01.png?raw=true)
-![materialresearch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/materiality-clock%20experiment-02.png?raw=true)
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/materialityclock-01.png" width="50%">
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/materiality-clock experiment-02.png" width="50%">
+
 
 Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts about time??
 
@@ -423,7 +424,8 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 #### 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
 ##### >>> website sketch
-![soundofthetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/soundoftimesketch.png?raw=true)
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/soundoftimesketch.png" width="50%">
+
 
 ##### >>> audio trials
 *trial 1*  - sounds of a day: MORNING TIME
@@ -437,7 +439,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 #### 3.2 Creating an additional channel which visually represents notions of time (but without audio)
 ##### >>> website sketch
-![illustratethetimes](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/illustratethetimesketch.png?raw=true)
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/illustratethetimesketch.png" width="50%">
 
 ##### >>> video trials
 
