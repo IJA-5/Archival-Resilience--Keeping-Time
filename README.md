@@ -68,8 +68,8 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 <table style="width:100%">
   <tr>
-    <th>NVV </th>
-    <th>ALARM CLOCK</th> 
+    <th>TAG</th>
+    <th>DATA</th> 
   </tr>
   <tr>
     <td>IISG call Number</td>
@@ -388,6 +388,8 @@ Create a video that combines sounds of time/ videos of time to their period in t
 ### <a name="transcoding-tool"></a> 1)  TRANSCODING TOOL: Alarm clock website
 #### WEBSITE SKETCHES
 ##### 1.1.1 - Winamp inspired control board
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website2.jpg" width="50%">
 ![mainwebsitesketch1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website.jpg?raw=true)
 ![mainwebsitesketch2](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/main_website2.png?raw=true)
 
