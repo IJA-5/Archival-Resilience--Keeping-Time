@@ -60,20 +60,6 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 </details
 
 
-| Tag | Data |
-|--|--|
-**IISG Call Number** | IISG BG K21/816 
-| **Physical Description** | NVV electric alarm clock
-| **Type** | Object
-| **Medium** | Alarm Clock
-| **Materials** | Plastic
-| **Date and Location** | 1950-1974, the Netherlands
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+K21%2F816&size=small&title=%5BObject.%5D+NVV.&pid=30051001354403&publication=pictoright)| An orange colored, retro-flip alarm clock, with an NVV logo on it. There is a turning button on the right side. The time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.
-
-
-
-
-
 <table style="width:100%">
   <tr>
     <th>Information Archive: </th>
@@ -114,7 +100,7 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
     <td>1950-1974 </td>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/artifact_clock.jpeg"></td>
     <td> An orange colored, retro-flip alarm clock, with an NVV logo on it. There is a turning button on the right side. The         time that it stopped on is 3.24PM and the clockface of the alarm is black colored with white typography.</td>
   </tr>
 </table>
