@@ -106,8 +106,6 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 
 
-
-
 ---
 
 
@@ -134,7 +132,7 @@ Standart time = globally accepted standart of time measurement [1](#1)
     <th> (seconds = base unit ) </th>
   </tr>
   <tr>
-    <td> <img src="IMAGES/workingsoftime.png" height="50%" </td>
+    <td> ![workingsoftime](http://www.exactlywhatistime.com/wp-content/uploads/2014/02/time_units.jpg)" </td>
     <td> 
       
  - *minute* (60 seconds)
