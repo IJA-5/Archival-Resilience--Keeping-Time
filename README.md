@@ -1,5 +1,4 @@
 ![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverplaceholder.jpg?raw=true)
-
 # INTELLECTUAL HISTORY AND FUTURE OF TIME
 ***Archive - Memory - Representation: Archival Resilience - Keeping Time***
 > changes have occurred in the way which humans experience and measure time in accordance with our art, our science and our social infrastructure. 
