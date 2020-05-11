@@ -1,4 +1,3 @@
-
 ![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverplaceholder.jpg?raw=true)
 
 # INTELLECTUAL HISTORY AND FUTURE OF TIME
@@ -52,12 +51,9 @@
 
 *This artefact is an orange colored, flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. All that is certain, that it was to keep the time of the NVV workers*
 
-<details> 
-  <summary> ARTEFACT IISG LINK - IISG </summary>
-  
-https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
-</details
+ARTEFACT IISG LINK - IISG:  https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
+
 
 
 <table style="width:100%">
