@@ -1,70 +1,59 @@
-
 ![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverplaceholder.jpg?raw=true)
-
 # INTELLECTUAL HISTORY AND FUTURE OF TIME
 ***Archive - Memory - Representation: Archival Resilience - Keeping Time***
 > changes have occurred in the way which humans experience and measure time in accordance with our art, our science and our social infrastructure. 
 
 ---
 
+https://github.com/sachavanalfen/transcoding#artefact
 
-## Table of contents
-1. [ARTEFACT](#ARTEFACT)
-1. [RESEARCH](#RESEARCH)
-   *  [What is time?](#1-WHAT-IS-TIME?)
-      * [1.1 Definition](#1.1-definition)
-      * [1.2 facts about time](#1.2-facts-about-time)
-      * [1.3 Questions about time](#1.3-questions-about-time)
-      * [1.4 how is time defined in culture?](#1.4-how-is-time-defined-in-culture?)
-   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-NVV)
-      * [2.1 Who was the NVV?](#2.1-who-was-the-nvv?)
+### Table of contents
+1. [Artefact](#Artefact)
+1. [Research](#Research)
+   *  [What is time?](#1-What-Is-Time?)
+      * [1.1 Definition](#1.1-Definition)
+      * [1.2 facts about time](#1.2-Facts-About-Time)
+      * [1.3 Questions about time](#1.3-Questions-About-Time)
+      * [1.4 how is time defined in culture?](#1.4-How-Is-Time-Defined-In-Culture?)
+   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-Nvv)
+      * [2.1 Who was the NVV?](#2.1-Who-was-the-nvv?)
       * [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
         * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
         * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
-1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
-   * [Ideas/Concepts](#ideas-concepts)
-      * concept/main idea: Transcoding Tool
-      * transcoding topics & possibilities
-   * [TRANSCODING EXPERIMENTS](#transcoding-experiments)
-      * [1 - TRANSCODING TOOL: Alarm clock website](#transcoding-tool)
+1. [Resilience Of The ArtifactT: Transcoding](#Resilience-Of-The-Artifact-Transcoding)
+   * [Ideas/Concepts](#Ideas-Concepts)
+      * Concept/main idea: Transcoding Tool
+      * Transcoding topics & possibilities
+   * [Transcoding Experiments](#Transcoding-Experiments)
+      * [1 - Transcoding Tool: Alarm clock website](#Transcoding-Tool)
         * 1.1 Website Sketches
           * 1.1.1 - winamp inspired control board
         * 1.2 Clock sketches
-      * [2 - EXPLORING THE MATERIALITY](#exploring-materiality)
+      * [2 - Exploring the Materiality](#Exploring-Materiality)
         * 2.1 - What does the clock look like?
         * 2.2 - Understandings of the clock - how does it tick?
-      * [3 - TRANSCRIBING of TIME PERSPECTIVE](#transcribing-time-perspective)
+      * [3 - Transcribing of Time Perspective](#Transcribing-Time-Perspective)
         * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
         * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
-1. [REFLECTION](#REFLECTION)
-1. [OUTCOME](#OUTCOME)
+1. [Reflection](#Reflection)
+1. [Outcome](#Outcome)
     * Final Outcome: General Overview
     * Outcome Links
-1. [CONCLUSION](#CONCLUSION)
-1. [BIBLIOGRAPHY](#BIBLIOGRAPHY)
-    * [EXTRA SOURCES/REFERENCES](#extra-sources-references)
+1. [Conclusion](#Conclusion)
+1. [Bibliography](#Bibliography)
+    * [Extra Sources/References](#Extra-Sources-References)
 
 
 ---
 
 
-# <a name="ARTEFACT"></a> 1. ARTEFACT
+# <a name="Artefact"></a> 1. Artefact
 
 *This artefact is an orange colored, flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. All that is certain, that it was to keep the time of the NVV workers*
 
-<details> 
-  <summary> ARTEFACT IISG LINK - IISG </summary>
-  
-https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
-</details
+ARTEFACT IISG LINK - IISG:  https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
-
-<table style="width:100%">
-  <tr>
-    <th>Information Archive: </th>
-  </tr>
-</table>
 
 <table style="width:100%">
   <tr>
@@ -112,17 +101,17 @@ https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F5
 
 <p>&nbsp;</p>
 
-# <a name="RESEARCH"></a> 2. RESEARCH
+# <a name="Research"></a> 2. RESEARCH
 
-## <a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?
+## <a name="1-What-Is-Time?"></a> 1) What is time?
 
-### <a name="1.1-definition"></a> 1.1 DEFINITION
+### <a name="1.1-definition"></a> 1.1 Definition
 
 Time = the indefinite continued progress of existence and events in the past, present, and future regarded as a whole
 
 ---
 
-### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
+### <a name="1.2-Facts-About-Time"></a> 1.2 "Facts" About Time
  
 Standart time = globally accepted standart of time measurement [1](#1)
 
@@ -161,7 +150,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 ---
 
-### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
+### <a name="1.3-Questions-About-Time"></a> 1.3 Questions About Time
 
 1. **How can you take the concept of time and transcode it into a visible understandable concept?**
     - alarm clock
@@ -181,7 +170,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 ---
 
 
-### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE? [3](#3)
+### <a name="1.4-How-Is-Time-Defined-In-Culture?"></a> 1.4 How is time defined in culture? [3](#3)
 
 <table>
    <tr>
@@ -242,9 +231,8 @@ Study of the use of time and the way that time is perceived and valued by indivi
 
 ---
 
-<p>&nbsp;</p>
 
-### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
+### <a name="2-NVV"></a> 2) NVV: Nederlands Verbond van Vakverenigingen
 #### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
  
 The Dutch Union of the NVV was a trade union, founded on the 1st of Januari 1906 by the 15 unions. The NVV later (1977) united with the Dutch Catholique Union to become the FNV. 
@@ -257,7 +245,7 @@ The NVV was the trade union of the social democratic pilar. The founding of the 
 
 #### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
 
-##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 what was it then?
+##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 What was it then?
 
 A Union is an organization that takes into consideration and represents the individual and collective intersts of employees. 
 The first national union in the netherlands was the General Dutch Employee Union in 1871. The political influences within these national unions resulted into the founding of independent unions, such as the NAS in 1893. 
@@ -287,11 +275,10 @@ etc.
 
 ---
 
-<p>&nbsp;</p>
 
-# <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
-## <a name="ideas-concepts"></a> IDEAS/CONCEPTS
-### CONCEPT/MAIN IDEA: TRANSCODING TOOL
+# <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. Resilience of the Artefact: Transcoding
+## <a name="ideas-concepts"></a> Ideas/Concepts
+### Concept/Main Idea: Transcoding Tool
 
 **INFORMATION TRANSCODING TOOL** | CLOCK WEBSITE
 ------------ | -------------
@@ -381,12 +368,11 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-<p>&nbsp;</p>
 
-## <a name="transcoding-experiments"></a> TRANSCODING EXPERIMENTS
+## <a name="Transcoding-Experiments"></a> Transcoding Experiments
 
-### <a name="transcoding-tool"></a> 1)  TRANSCODING TOOL: Alarm clock website
-#### WEBSITE SKETCHES
+### <a name="Transcoding-Tool"></a> 1)  Transcoding Tool: Alarm clock website
+#### Website Sketches
 ##### 1.1.1 - Winamp inspired control board
 <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website.jpg" width="50%">
 <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website2.png" width="50%">
@@ -401,7 +387,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-### <a name="exploring-materiality"></a> 2) EXPLORING THE MATERIALITY
+### <a name="Exploring-Materiality"></a> 2) Exploring the Materiality
 
 #### 2.1 - What does the clock look like?
 
@@ -419,7 +405,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ---
 
-### <a name="transcribing-time-perspective"></a> 3) TRANSCRIBING of TIME PERSPECTIVE
+### <a name="Transcribing-Time-Perspective"></a> 3) Transcribing of Time Perspective
 
 #### 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
@@ -446,15 +432,29 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 *trial 1* - MORNING TIMES
 [![worktimevid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)](https://www.youtube.com/watch?v=VFdph-zGl50)
 
-<p>&nbsp;</p>
+---
 
-# <a name="REFLECTION"></a> 5. REFLECTION
+# <a name="Reflection"></a> 4. Reflection
 
-# <a name="OUTCOME"></a> 6. OUTCOME
+While working on this project, I found myself questioning constantly the topic of achrival resilience, and wheter my treatment of the transcodings reflected this. I found myself often stuck trying to come to an understanding of what that would mean for this NVV alarm clock. I at times pushed through, experimented and showed some moments of clarity. Yet overal, finding the right balance between the experimentation, and the representation was a hard process, that taught me a lot for future projects. 
+
+---
+
+# <a name="Outcome"></a> 5. Outcome
 ## Final Outcome: General Description
-## Outcome Links
+IMAGES WILL BE ADDED SOON
+## Outcome Link
 
-# <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
+
+---
+
+# <a name="Conclusion"></a> 6. Conclusion
+
+I  really enjoyed the project. Despite struggling with this above mentioned balance of experimentation and representation, I really learned a lot about doing in depth research about one item. With this project I tried to explore the timeless representation, and the historical implications of this NVV alarm clock. Hopefully I found some sort of resilience for future generations to understand this object, and to take away some additional knowledge from it; which in some ways the original artefact didn't quite do. I do however believe that if I had been less afraid in my experimentation fase I would have maybe been able to explore quite different facets of this clock still, that I didn't manage this time around. 
+
+---
+
+# <a name="Bibliography"></a> 7. Bibiliography
 
 <a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
