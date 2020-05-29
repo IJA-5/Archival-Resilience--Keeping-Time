@@ -231,7 +231,6 @@ Study of the use of time and the way that time is perceived and valued by indivi
 
 ---
 
-<p>&nbsp;</p>
 
 ### <a name="2-NVV"></a> 2) NVV: Nederlands Verbond van Vakverenigingen
 #### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
@@ -276,7 +275,6 @@ etc.
 
 ---
 
-<p>&nbsp;</p>
 
 # <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. Resilience of the Artefact: Transcoding
 ## <a name="ideas-concepts"></a> Ideas/Concepts
@@ -370,7 +368,6 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-<p>&nbsp;</p>
 
 ## <a name="Transcoding-Experiments"></a> Transcoding Experiments
 
@@ -439,13 +436,15 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 # <a name="Reflection"></a> 4. Reflection
 
-While working on this project, the transcoding was done in different circles. From small sketches suchs as a mini FM Radio to analogue try-outs like tie-dye textile. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition.
+While working on this project, I found myself questioning constantly the topic of achrival resilience, and wheter my treatment of the transcodings reflected this. I found myself often stuck trying to come to an understanding of what that would mean for this NVV alarm clock. I at times pushed through, experimented and showed some moments of clarity. Yet overal, finding the right balance between the experimentation, and the representation was a hard process, that taught me a lot for future projects. 
 
 ---
 
 # <a name="Outcome"></a> 5. Outcome
 ## Final Outcome: General Description
-## Outcome Links
+IMAGES WILL BE ADDED SOON
+## Outcome Link
+
 
 ---
 
