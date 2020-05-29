@@ -437,25 +437,25 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ---
 
-# <a name="Reflection"></a> 5. Reflection
+# <a name="Reflection"></a> 4. Reflection
 
 While working on this project, the transcoding was done in different circles. From small sketches suchs as a mini FM Radio to analogue try-outs like tie-dye textile. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition.
 
 ---
 
-# <a name="Outcome"></a> 6. Outcome
+# <a name="Outcome"></a> 5. Outcome
 ## Final Outcome: General Description
 ## Outcome Links
 
 ---
 
-# <a name="Conclusion"></a> 7. Conclusion
+# <a name="Conclusion"></a> 6. Conclusion
 
 I enjoyed the project. From research through the archive and finding interesting material; to turn an artefact inside and out. With this project, I tried to point out the relevancy of ether resistance and that even radio is an old media there are ways to adapt the thinking of the pirates in contemporary media and to encourge people to the same, just like the orignal artefact.
 
 ---
 
-# <a name="Bibliography"></a> 8. Bibiliography
+# <a name="Bibliography"></a> 7. Bibiliography
 
 <a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
