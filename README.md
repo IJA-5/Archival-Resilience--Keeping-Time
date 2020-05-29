@@ -5,61 +5,55 @@
 
 ---
 
+https://github.com/sachavanalfen/transcoding#artefact
 
-## Table of contents
-1. [ARTEFACT](#ARTEFACT)
-1. [RESEARCH](#RESEARCH)
-   *  [What is time?](#1-WHAT-IS-TIME?)
-      * [1.1 Definition](#1.1-definition)
-      * [1.2 facts about time](#1.2-facts-about-time)
-      * [1.3 Questions about time](#1.3-questions-about-time)
-      * [1.4 how is time defined in culture?](#1.4-how-is-time-defined-in-culture?)
-   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-NVV)
-      * [2.1 Who was the NVV?](#2.1-who-was-the-nvv?)
+### Table of contents
+1. [Artefact](#Artefact)
+1. [Research](#Research)
+   *  [What is time?](#1-What-Is-Time?)
+      * [1.1 Definition](#1.1-Definition)
+      * [1.2 facts about time](#1.2-Facts-About-Time)
+      * [1.3 Questions about time](#1.3-Questions-About-Time)
+      * [1.4 how is time defined in culture?](#1.4-How-Is-Time-Defined-In-Culture?)
+   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-Nvv)
+      * [2.1 Who was the NVV?](#2.1-Who-was-the-nvv?)
       * [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
         * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
         * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
-1. [RESILIENCE OF THE ARTIFACT: TRANSCODING](#RESILIENCE-OF-THE-ARTIFACT-TRANSCODING)
-   * [Ideas/Concepts](#ideas-concepts)
-      * concept/main idea: Transcoding Tool
-      * transcoding topics & possibilities
-   * [TRANSCODING EXPERIMENTS](#transcoding-experiments)
-      * [1 - TRANSCODING TOOL: Alarm clock website](#transcoding-tool)
+1. [Resilience Of The ArtifactT: Transcoding](#Resilience-Of-The-Artifact-Transcoding)
+   * [Ideas/Concepts](#Ideas-Concepts)
+      * Concept/main idea: Transcoding Tool
+      * Transcoding topics & possibilities
+   * [Transcoding Experiments](#Transcoding-Experiments)
+      * [1 - Transcoding Tool: Alarm clock website](#Transcoding-Tool)
         * 1.1 Website Sketches
           * 1.1.1 - winamp inspired control board
         * 1.2 Clock sketches
-      * [2 - EXPLORING THE MATERIALITY](#exploring-materiality)
+      * [2 - Exploring the Materiality](#Exploring-Materiality)
         * 2.1 - What does the clock look like?
         * 2.2 - Understandings of the clock - how does it tick?
-      * [3 - TRANSCRIBING of TIME PERSPECTIVE](#transcribing-time-perspective)
+      * [3 - Transcribing of Time Perspective](#Transcribing-Time-Perspective)
         * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
         * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
-1. [REFLECTION](#REFLECTION)
-1. [OUTCOME](#OUTCOME)
+1. [Reflection](#Reflection)
+1. [Outcome](#Outcome)
     * Final Outcome: General Overview
     * Outcome Links
-1. [CONCLUSION](#CONCLUSION)
-1. [BIBLIOGRAPHY](#BIBLIOGRAPHY)
-    * [EXTRA SOURCES/REFERENCES](#extra-sources-references)
+1. [Conclusion](#Conclusion)
+1. [Bibliography](#Bibliography)
+    * [Extra Sources/References](#Extra-Sources-References)
 
 
 ---
 
 
-# <a name="ARTEFACT"></a> 1. ARTEFACT
+# <a name="Artefact"></a> 1. Artefact
 
 *This artefact is an orange colored, flip-alarm clock that was possibly handed out by the NVV union in between 1950 and 1974. There is a chance that this item was given to the NVV members at the time as some sort of gift, however this is speculation rather than known facts. All that is certain, that it was to keep the time of the NVV workers*
 
 
 ARTEFACT IISG LINK - IISG:  https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fiisg.amsterdam%2Fid%2Fitem%2F576724
 
-
-
-<table style="width:100%">
-  <tr>
-    <th>Information Archive: </th>
-  </tr>
-</table>
 
 <table style="width:100%">
   <tr>
