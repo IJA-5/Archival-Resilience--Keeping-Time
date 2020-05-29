@@ -442,9 +442,10 @@ While working on this project, I found myself questioning constantly the topic o
 
 # <a name="Outcome"></a> 5. Outcome
 ## Final Outcome: General Description
-IMAGES WILL BE ADDED SOON
-## Outcome Link
 
+
+## Outcome Link
+ [NVV-Alarmclock](https://ija-5.github.io/NVV_Time/)
 
 ---
 
