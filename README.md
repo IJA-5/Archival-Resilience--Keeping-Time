@@ -101,17 +101,17 @@ ARTEFACT IISG LINK - IISG:  https://iisg.amsterdam/en/detail?id=https%3A%2F%2Fii
 
 <p>&nbsp;</p>
 
-# <a name="RESEARCH"></a> 2. RESEARCH
+# <a name="Research"></a> 2. RESEARCH
 
-## <a name="1-WHAT-IS-TIME?"></a> 1) WHAT IS TIME?
+## <a name="1-What-Is-Time?"></a> 1) What is time?
 
-### <a name="1.1-definition"></a> 1.1 DEFINITION
+### <a name="1.1-definition"></a> 1.1 Definition
 
 Time = the indefinite continued progress of existence and events in the past, present, and future regarded as a whole
 
 ---
 
-### <a name="1.2-facts-about-time"></a> 1.2 "FACTS" ABOUT TIME
+### <a name="1.2-Facts-About-Time"></a> 1.2 "Facts" About Time
  
 Standart time = globally accepted standart of time measurement [1](#1)
 
@@ -150,7 +150,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 
 ---
 
-### <a name="1.3-questions-about-time"></a> 1.3 QUESTIONS ABOUT TIME
+### <a name="1.3-Questions-About-Time"></a> 1.3 Questions About Time
 
 1. **How can you take the concept of time and transcode it into a visible understandable concept?**
     - alarm clock
@@ -170,7 +170,7 @@ For even longer periods, some multiples of years are commonly used, e.g. *decad
 ---
 
 
-### <a name="1.4-how-is-time-defined-in-culture?"></a> 1.4 HOW IS TIME DEFINED IN CULTURE? [3](#3)
+### <a name="1.4-How-Is-Time-Defined-In-Culture?"></a> 1.4 How is time defined in culture? [3](#3)
 
 <table>
    <tr>
@@ -233,7 +233,7 @@ Study of the use of time and the way that time is perceived and valued by indivi
 
 <p>&nbsp;</p>
 
-### <a name="2-NVV"></a> 2) NVV: NEDERLANDS VERBOND VAN VAKVERENIGINGEN
+### <a name="2-NVV"></a> 2) NVV: Nederlands Verbond van Vakverenigingen
 #### <a name="2.1-who-was-the-nvv?"></a> 2.1 Who was the NVV?
  
 The Dutch Union of the NVV was a trade union, founded on the 1st of Januari 1906 by the 15 unions. The NVV later (1977) united with the Dutch Catholique Union to become the FNV. 
@@ -246,7 +246,7 @@ The NVV was the trade union of the social democratic pilar. The founding of the 
 
 #### <a name="2.2-What-is-a-vakvereniging/vakbond?"></a> 2.2 What is a vakvereniging/vakbond?
 
-##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 what was it then?
+##### <a name="2.2.1-what-was-it-then?"></a> 2.2.1 What was it then?
 
 A Union is an organization that takes into consideration and represents the individual and collective intersts of employees. 
 The first national union in the netherlands was the General Dutch Employee Union in 1871. The political influences within these national unions resulted into the founding of independent unions, such as the NAS in 1893. 
@@ -278,9 +278,9 @@ etc.
 
 <p>&nbsp;</p>
 
-# <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. RESILIENCE OF THE ARTIFACT: TRANSCODING
-## <a name="ideas-concepts"></a> IDEAS/CONCEPTS
-### CONCEPT/MAIN IDEA: TRANSCODING TOOL
+# <a name="RESILIENCE-OF-THE-ARTIFACT-TRANSCODING"></a> 3. Resilience of the Artefact: Transcoding
+## <a name="ideas-concepts"></a> Ideas/Concepts
+### Concept/Main Idea: Transcoding Tool
 
 **INFORMATION TRANSCODING TOOL** | CLOCK WEBSITE
 ------------ | -------------
@@ -372,10 +372,10 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 <p>&nbsp;</p>
 
-## <a name="transcoding-experiments"></a> TRANSCODING EXPERIMENTS
+## <a name="Transcoding-Experiments"></a> Transcoding Experiments
 
-### <a name="transcoding-tool"></a> 1)  TRANSCODING TOOL: Alarm clock website
-#### WEBSITE SKETCHES
+### <a name="Transcoding-Tool"></a> 1)  Transcoding Tool: Alarm clock website
+#### Website Sketches
 ##### 1.1.1 - Winamp inspired control board
 <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website.jpg" width="50%">
 <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/IMAGES/main_website2.png" width="50%">
@@ -390,7 +390,7 @@ Create a video that combines sounds of time/ videos of time to their period in t
 
 ---
 
-### <a name="exploring-materiality"></a> 2) EXPLORING THE MATERIALITY
+### <a name="Exploring-Materiality"></a> 2) Exploring the Materiality
 
 #### 2.1 - What does the clock look like?
 
@@ -408,7 +408,7 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 
 ---
 
-### <a name="transcribing-time-perspective"></a> 3) TRANSCRIBING of TIME PERSPECTIVE
+### <a name="Transcribing-Time-Perspective"></a> 3) Transcribing of Time Perspective
 
 #### 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
 
@@ -435,15 +435,27 @@ Creating an IKEA-catalogue that combines a how-to alarm clock with quotes/facts 
 *trial 1* - MORNING TIMES
 [![worktimevid1](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/worktime_vid.png?raw=true)](https://www.youtube.com/watch?v=VFdph-zGl50)
 
-<p>&nbsp;</p>
+---
 
-# <a name="REFLECTION"></a> 5. REFLECTION
+# <a name="Reflection"></a> 5. Reflection
 
-# <a name="OUTCOME"></a> 6. OUTCOME
+While working on this project, the transcoding was done in different circles. From small sketches suchs as a mini FM Radio to analogue try-outs like tie-dye textile. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition.
+
+---
+
+# <a name="Outcome"></a> 6. Outcome
 ## Final Outcome: General Description
 ## Outcome Links
 
-# <a name="BIBLIOGRAPHY"></a> 7. BIBLIOGRAPHY
+---
+
+# <a name="Conclusion"></a> 7. Conclusion
+
+I enjoyed the project. From research through the archive and finding interesting material; to turn an artefact inside and out. With this project, I tried to point out the relevancy of ether resistance and that even radio is an old media there are ways to adapt the thinking of the pirates in contemporary media and to encourge people to the same, just like the orignal artefact.
+
+---
+
+# <a name="Bibliography"></a> 8. Bibiliography
 
 <a name="1"></a> [1] [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b6980fc-bfea-4422-8c14-a92f141f5e9f/Untitled.png)
 
