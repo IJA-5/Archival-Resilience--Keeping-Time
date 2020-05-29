@@ -443,6 +443,11 @@ While working on this project, I found myself questioning constantly the topic o
 # <a name="Outcome"></a> 5. Outcome
 ## Final Outcome: General Description
 
+To see the complete final outcome follow the link below; Here are some snipbits of the final website.
+
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/GIFS/clock.gif" width="50%"> <img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/GIFS/work1.gif" width="50%">
+
+<img src="https://raw.githubusercontent.com/IJA-5/Archival-Resilience--Keeping-Time/master/GIFS/wakeup.gif" width="50%"> 
 
 ## Outcome Link
  [NVV-Alarmclock](https://ija-5.github.io/NVV_Time/)
