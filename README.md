@@ -450,7 +450,7 @@ IMAGES WILL BE ADDED SOON
 
 # <a name="Conclusion"></a> 6. Conclusion
 
-I enjoyed the project. From research through the archive and finding interesting material; to turn an artefact inside and out. With this project, I tried to point out the relevancy of ether resistance and that even radio is an old media there are ways to adapt the thinking of the pirates in contemporary media and to encourge people to the same, just like the orignal artefact.
+I  really enjoyed the project. Despite struggling with this above mentioned balance of experimentation and representation, I really learned a lot about doing in depth research about one item. With this project I tried to explore the timeless representation, and the historical implications of this NVV alarm clock. Hopefully I found some sort of resilience for future generations to understand this object, and to take away some additional knowledge from it; which in some ways the original artefact didn't quite do. I do however believe that if I had been less afraid in my experimentation fase I would have maybe been able to explore quite different facets of this clock still, that I didn't manage this time around. 
 
 ---
 
