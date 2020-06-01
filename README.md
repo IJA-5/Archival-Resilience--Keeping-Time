@@ -1,47 +1,41 @@
 ![CoverImage](https://github.com/IJA-5/Archival-Resilience--Keeping-Time/blob/master/IMAGES/coverplaceholder.jpg?raw=true)
-# INTELLECTUAL HISTORY AND FUTURE OF TIME
-***Archive - Memory - Representation: Archival Resilience - Keeping Time***
-> changes have occurred in the way which humans experience and measure time in accordance with our art, our science and our social infrastructure. 
-
----
-
-https://github.com/sachavanalfen/transcoding#artefact
-
+# Intellectual History and Future of Time
+> Changes have occurred in the way which humans experience and measure time in accordance with our art, our science and our social infrastructure. 
 ### Table of contents
 1. [Artefact](#Artefact)
-1. [Research](#Research)
-   *  [What is time?](#1-What-Is-Time?)
-      * [1.1 Definition](#1.1-Definition)
-      * [1.2 facts about time](#1.2-Facts-About-Time)
-      * [1.3 Questions about time](#1.3-Questions-About-Time)
-      * [1.4 how is time defined in culture?](#1.4-How-Is-Time-Defined-In-Culture?)
-   * [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-Nvv)
-      * [2.1 Who was the NVV?](#2.1-Who-was-the-nvv?)
-      * [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
-        * [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
-        * [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
-1. [Resilience Of The ArtifactT: Transcoding](#Resilience-Of-The-Artifact-Transcoding)
-   * [Ideas/Concepts](#Ideas-Concepts)
-      * Concept/main idea: Transcoding Tool
-      * Transcoding topics & possibilities
-   * [Transcoding Experiments](#Transcoding-Experiments)
-      * [1 - Transcoding Tool: Alarm clock website](#Transcoding-Tool)
-        * 1.1 Website Sketches
-          * 1.1.1 - winamp inspired control board
-        * 1.2 Clock sketches
-      * [2 - Exploring the Materiality](#Exploring-Materiality)
-        * 2.1 - What does the clock look like?
-        * 2.2 - Understandings of the clock - how does it tick?
-      * [3 - Transcribing of Time Perspective](#Transcribing-Time-Perspective)
-        * 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
-        * 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
-1. [Reflection](#Reflection)
-1. [Outcome](#Outcome)
-    * Final Outcome: General Overview
-    * Outcome Links
-1. [Conclusion](#Conclusion)
-1. [Bibliography](#Bibliography)
-    * [Extra Sources/References](#Extra-Sources-References)
+2. [Research](#Research)
+    - [What is time?](#1-What-Is-Time?)
+        - [1.1 Definition](#1.1-Definition)
+            - [1.2 facts about time](#1.2-Facts-About-Time)
+            - [1.3 Questions about time](#1.3-Questions-About-Time)
+            - [1.4 how is time defined in culture?](#1.4-How-Is-Time-Defined-In-Culture?)
+    - [2 - NVV: Nederlands Verbond van Vakverenigingen](#2-Nvv)
+        - [2.1 Who was the NVV?](#2.1-Who-was-the-nvv?)
+        - [2.2 What is a vakvereniging/vakbond?](#2.2-What-is-a-vakvereniging/vakbond?)
+            - [2.2.1 what was it then?](#2.2.1-what-was-it-then?)
+            - [2.2.2 what is it now?](#2.2.2-what-is-it-now?)
+3. [Resilience Of The ArtifactT: Transcoding](#Resilience-Of-The-Artifact-Transcoding)
+    - [Ideas/Concepts](#Ideas-Concepts)
+        - Concept/main idea: Transcoding Tool
+        - Transcoding topics & possibilities
+    - [Transcoding Experiments](#Transcoding-Experiments)
+        - [1 - Transcoding Tool: Alarm clock website](#Transcoding-Tool)
+            - 1.1 Website Sketches
+                - 1.1.1 - winamp inspired control board
+            - 1.2 Clock sketches
+        - [2 - Exploring the Materiality](#Exploring-Materiality)
+            - 2.1 - What does the clock look like?
+            - 2.2 - Understandings of the clock - how does it tick?
+        - [3 - Transcribing of Time Perspective](#Transcribing-Time-Perspective)
+            - 3.1 - Creating a channel for ASMR representing different (cultural) notions of time
+            - 3.2 - Creating an additional channel which visually represents notions of time (but without audio)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+    - Final Outcome: General Overview
+    - Outcome Links
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography)
+    - [Extra Sources/References](#Extra-Sources-References)
 
 
 ---
